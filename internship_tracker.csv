@@ -1,0 +1,40 @@
+Phase,Day,Deliverable,Type,Description,File/Link,Status,Notes
+PHASE 1 - FOUNDATIONS,1,Python & Pandas Exercises Notebook,Notebook,Reading CSV filtering sorting grouping etc.,Phase1_Foundations/day1.ipynb,TRUE,Completed and executed
+PHASE 1 - FOUNDATIONS,2,Cleaned Dataset,CSV/Docs,Null handling duplicates data types,Phase1_Foundations/day2_cleaned_dataset.csv,TRUE,Completed
+PHASE 1 - FOUNDATIONS,3,EDA REPORT,Notebook,Descriptive stats distributions correlation,Phase1_Foundations/day3_eda.ipynb,TRUE,Completed and executed
+PHASE 1 - FOUNDATIONS,4,BASIC SQL,SQL,SELECT WHERE JOIN GROUP BY etc.,Phase1_Foundations/day4_basic_sql.sql,TRUE,10 foundational queries
+PHASE 1 - FOUNDATIONS,5,ADVANCED SQL,SQL,Subqueries CTEs Window Functions,Phase1_Foundations/day5_advanced_sql.sql,TRUE,5 advanced analytical queries
+PHASE 2 - DATA ENGINEERING,6,PIPELINE ARCHITECTURE,Diagram/Docs,ETL vs ELT Architecture,Phase2_DataEngineering/day6_pipeline_architecture.png,TRUE,Visual architecture diagram
+PHASE 2 - DATA ENGINEERING,6,PIPELINE CONCEPT WRITE-UP,Markdown,ETL vs ELT trade-offs and use cases,Phase2_DataEngineering/day6_etl_elt.md,TRUE,Comprehensive write-up
+PHASE 2 - DATA ENGINEERING,7,EXTRACT SCRIPT,Python,Extract data from CSV and API,Phase2_DataEngineering/day7_extract.py,TRUE,Completed
+PHASE 2 - DATA ENGINEERING,8,TRANSFORM,Python,Clean and transform data,Phase2_DataEngineering/day8_transform.py,TRUE,Completed
+PHASE 2 - DATA ENGINEERING,8,Transformed Data File,Data File,Cleaned and normalized output from the transform step,Data/Processed/day8_transformed_data.csv,TRUE,Completed
+PHASE 2 - DATA ENGINEERING,9,LOAD,Python,Load data to database,Phase2_DataEngineering/day9_load.py,TRUE,Completed
+PHASE 2 - DATA ENGINEERING,10,AUTOMATED ETL PIPELINE,Python,Automated ETL process,Phase2_DataEngineering/day10_etl_pipeline.py,TRUE,Automated pipeline
+PHASE 3 - MINI PROJECT 1,11,PROJECT BRIEF,Markdown,Business problem KPIs etc.,Phase3_MiniProject1_Sales/README.md,TRUE,Completed
+PHASE 3 - MINI PROJECT 1,11,RAW DATA LOADED TO DATABASE,Database,Raw sales data loaded,Data/Databases/sales.db,TRUE,SQLite database populated
+PHASE 3 - MINI PROJECT 1,12,CLEANED SALES DATASET,CSV,Cleaned dataset,Data/Processed/cleaned_sales.csv,TRUE,Completed
+PHASE 3 - MINI PROJECT 1,13,SALES ANALYTICS SQL,SQL,Analytics queries,Phase3_MiniProject1_Sales/sql/sales_analytics.sql,TRUE,10 commercial queries
+PHASE 3 - MINI PROJECT 1,14,DASHBOARD DRAFT,Dashboard,First dashboard version,Phase3_MiniProject1_Sales/dashboard/draft_dashboard.md,TRUE,Draft architecture & wireframes
+PHASE 3 - MINI PROJECT 1,15,FINAL SALES DASHBOARD,Dashboard,Polished interactive dashboard,Phase3_MiniProject1_Sales/dashboard/final_dashboard.md,TRUE,Final BI dashboard specification
+PHASE 4 - ANALYTICS DEEP DIVE,16,ADVANCED PANDAS,Notebook,Advanced pandas techniques,Phase4_AnalyticsDeepDive/day16_advanced_pandas.ipynb,TRUE,Completed and executed
+PHASE 4 - ANALYTICS DEEP DIVE,17,VISUALIZATION SHOWCASE,Notebook,Polished visualizations,Phase4_AnalyticsDeepDive/day17_visualization_showcase.ipynb,TRUE,Completed and executed
+PHASE 4 - ANALYTICS DEEP DIVE,18,COHORT RETENTION,Notebook,Cohort analysis,Phase4_AnalyticsDeepDive/day18_cohort_analysis.ipynb,TRUE,Completed and executed
+PHASE 4 - ANALYTICS DEEP DIVE,19,FUNNEL ANALYSIS,Notebook,Funnel analysis,Phase4_AnalyticsDeepDive/day19_funnel_analysis.ipynb,TRUE,Completed and executed
+PHASE 4 - ANALYTICS DEEP DIVE,20,METRICS FRAMEWORK,Markdown,Metrics framework,Phase4_AnalyticsDeepDive/day20_metrics_framework.md,TRUE,Completed
+PHASE 5 - DASHBOARDING,21,BI TOOL REPORT,Markdown,BI Tool Report,Phase5_Dashboarding/day21_bi_report/report.md,TRUE,Completed
+PHASE 5 - DASHBOARDING,22,DASHBOARD REDESIGN,Markdown,Before after comparison,Phase5_Dashboarding/day22_dashboard_redesign/redesign.md,TRUE,Completed
+PHASE 5 - DASHBOARDING,23,STREAMLIT DASHBOARD,App,Interactive app,Phase5_Dashboarding/day23_streamlit_app/app.py,TRUE,Interactive app with Plotly
+PHASE 5 - DASHBOARDING,24,INSIGHT DECK,Markdown,Insight deck,Phase5_Dashboarding/day24_insight_deck/deck.md,TRUE,5-slide executive deck
+PHASE 5 - DASHBOARDING,25,REVISED DASHBOARD + DECK,Markdown,Revised assets,Phase5_Dashboarding/day25_revised_dashboard/revised.md,TRUE,Completed
+PHASE 6 - MINI PROJECT 2,26,PROJECT 2 SCOPING,Markdown,Project 2 scope,Phase6_MiniProject2_Operations/README.md,TRUE,Completed
+PHASE 6 - MINI PROJECT 2,27,PROJECT 2 ETL PIPELINE,Python,Project 2 ETL,Phase6_MiniProject2_Operations/pipeline/etl.py,TRUE,Completed
+PHASE 6 - MINI PROJECT 2,27,PROJECT 2 CLEAN DATASET,Database,Cleaned and DB-loaded dataset,Data/Databases/operations.db,TRUE,SQLite operations database
+PHASE 6 - MINI PROJECT 2,28,PROJECT 2 ANALYSIS,Notebook/SQL,Project 2 analysis,Phase6_MiniProject2_Operations/notebooks/analysis.ipynb,TRUE,Analysis notebook executed with outputs
+PHASE 6 - MINI PROJECT 2,28,PROJECT 2 SQL FILE,SQL,Operations analytics queries,Phase6_MiniProject2_Operations/sql/operations_analytics.sql,TRUE,6 analytical SQL queries
+PHASE 6 - MINI PROJECT 2,29,PROJECT 2 DASHBOARD,Dashboard,Project 2 dashboard,Phase6_MiniProject2_Operations/dashboard/app.py,TRUE,Streamlit operations dashboard app
+PHASE 6 - MINI PROJECT 2,30,FINAL PRESENTATION,Markdown,Final presentation,Phase6_MiniProject2_Operations/presentation/final.md,TRUE,10-slide capstone presentation
+PHASE 7 - WRAP UP,Wrap,GitHub Repository,Repository,Repo setup,README.md,TRUE,Configured and staged
+PHASE 7 - WRAP UP,Wrap,Data Dictionary,Markdown,Data Dictionary,Phase7_WrapUp/data_dictionary.md,TRUE,Comprehensive data dictionary
+PHASE 7 - WRAP UP,Wrap,Pipeline Documentation,Markdown,Pipeline Documentation,Phase7_WrapUp/pipeline_documentation.md,TRUE,End-to-end pipeline guide
+PHASE 7 - WRAP UP,Wrap,Project Documentation,Markdown,Project Documentation,Phase7_WrapUp/project_documentation.md,TRUE,Final capstone summary report

@@ -1,0 +1,264 @@
+order_id,order_date,customer_name,city,region,salesperson,category,product,quantity,unit_price,discount_pct,total_amount,payment_mode,status
+ORD-1116,2023-10-22,Customer_687,Mumbai,West,Karan Singh,Electronics,Headphones,8.0,5699.16,0.0,45593.28,Net Banking,Returned
+ORD-1121,2023-08-29,Customer_746,Ahmedabad,west,Neha Joshi,Sports,Cycle,6.0,14909.64,5.0,84984.95,UPI,Delivered
+ORD-1123,2023-01-22,Customer_929,Lucknow,North,Neha Joshi,Sports,Cycle,8.0,15081.47,20.0,96521.41,Card,Delivered
+ORD-1227,2023-10-13,Customer_556,Jaipur,North,,Electronics,Laptop,4.0,66604.54,20.0,213134.53,UPI,Returned
+ORD-1067,2023-03-22,Customer_277,Chandigarh,North,Sneha Patel,Sports,Cricket Bat,4.0,2235.29,10.0,8047.04,upi,Delivered
+ORD-1250,2023-03-09,Customer_631,Bangalore,South,Sneha Patel,Clothing,Formal Shirt,1.0,1197.22,5.0,1137.36,Net Banking,Delivered
+ORD-1177,2023-04-29,Customer_279,Hyderabad,South,Amit Sharma,Office Supplies,Notebook Set,1.0,355.33,0.0,355.33,Net Banking,Delivered
+ORD-1217,11-Oct-23,Customer_711,Surat,West,Priya Nair,Clothing,Formal Shoes,2.0,4027.64,0.0,8055.28,UPI,Returned
+ORD-1010,2023-08-05,  Customer_494  ,Mumbai,west,Priya Nair,Electronics,Laptop,3.0,66898.52,5.0,190660.78,Net Banking,Pending
+ORD-1102,2023-08-20,Customer_729,Lucknow,North,Sneha Patel,electronic,Headphones,6.0,5551.52,20.0,26647.3,Cash,Pending
+ORD-1025,2023-02-11,Customer_773,Pune,West,Karan Singh,Electronics,Smartwatch,10.0,11447.69,20.0,91581.52,UPI,Delivered
+ORD-1112,2023-05-20,Customer_777,Chandigarh,North,,Electronics,Smartphone,10.0,32556.7,0.0,325567.0,Net Banking,Returned
+ORD-1047,2023-04-16,Customer_498,Jaipur,North,Karan Singh,Clothing,Sneakers,9.0,Rs. 2776.42,15.0,21239.61,Cash,Pending
+ORD-1224,2023-06-05,Customer_358,Bangalore,South,Sneha Patel,Clothing,Jacket,7.0,3373.71,15.0,20073.57,Card,Returned
+ORD-1194,2023-05-29,Customer_935,Pune,West,Sneha Patel,Furniture,Wardrobe,1.0,18007.01,5.0,17106.66,UPI,Pending
+ORD-1216,2023-05-19,Customer_235,Kolkata,East,Priya Nair,Electronics,Laptop,5.0,64089.46,15.0,272380.2,Cash,
+ORD-1080,24-12-2023,Customer_685,Surat,West,Sneha Patel,Office Supply,Notebook Set,-3.0,362.94,10.0,2613.17,Net Banking,Delivered
+ORD-1007,2023-06-16,Customer_334,Kochi,South,Amit Sharma,Furniture,Sofa,5.0,24299.04,20.0,97196.16,,Delivered
+ORD-1221,2023-11-30,  Customer_407  ,Surat,West,Ravi Kumar,OFFICE SUPPLIES,File Cabinet,6.0,3147.12,15.0,16050.31,,Pending
+ORD-1068,2023-12-28,Customer_819,Lucknow,North,Arjun Mehta,Clothing,Sneakers,5.0,2724.81,0.0,13624.05,Net Banking,
+ORD-1142,13-Apr-23,Customer_423,Kochi,south,Amit Sharma,Furniture,Office Chair,1.0,8246.35,,7421.72,UPI,Pending
+ORD-1148,2023-12-14,Customer_479,Kochi,South,Neha Joshi,Office Supplies,Notebook Set,10.0,353.68,0.0,3536.8,UPI,Returned
+ORD-1020,04-04-2023,Customer_573,Chandigarh,North,Arjun Mehta,Furniture,Study Desk,9.0,11568.22,15.0,88496.88,cash,Delivered
+ORD-1031,2023-12-20,Customer_658,Guwahati,East,Ravi Kumar,Furnture,Sofa,9.0,24029.68,0.0,216267.12,Cash,Delivered
+ORD-1110,2023-03-15,Customer_171,,South,Karan Singh,Office Supplies,Notebook Set,6.0,338.85,0.0,2033.1,Card,Delivered
+ORD-1137,2023-02-26,Customer_343,Chandigarh,North,Arjun Mehta,Office Supplies,Stapler,9.0,451.25,20.0,3249.0,UPI,Delivered
+ORD-1079,2023-10-28,Customer_986,Ahmedabad,West,Neha Joshi,Office Supplies,File Cabinet,1.0,3272.34,10.0,2945.11,Card,Returned
+ORD-1069,2023-11-28,,Chennai,South,Ravi Kumar,Office Supplies,File Cabinet,7.0,3214.26,0.0,22499.82,Card,Delivered
+ORD-1198,2023-02-17,Customer_152,Hyderabad,South,Sneha Patel,Office Supplies,Stapler,2.0,465.62,15.0,791.55,,Returned
+ORD-1016,2023-06-23,Customer_702,Guwahati,East,Amit Sharma,clothing,Formal Shoes,2.0,4084.37,5.0,7760300.0,CASH,Pending
+ORD-1031,20-Dec-23,Customer_658,Guwahati,East,Ravi Kumar,Furniture,Sofa,9.0,24029.68,0.0,216267.12,Cash,Delivered
+ORD-1173,21-10-2023,Customer_504,Ahmedabad,West,Karan Singh,Office Supplies,Pen Set,9.0,146.82,10.0,1189.24,UPI,Delivered
+ORD-1232,2023-01-03,Customer_310,Pune,West,Sneha Patel,Clothing,Formal Shirt,0.0,Rs. 1191.55,20.0,7625920.0,UPI,Delivered
+ORD-1171,2023-03-30,Customer_645,Hyderabad,South,Neha Joshi,Sports,Football,8.0,938.3,20.0,6005.12,UPI,Pending
+ORD-1034,2023-08-29,Customer_304,Pune,West,Sneha Patel,Furniture,Bookshelf,2.0,4667.48,15.0,7934.72,Netbanking,Delivered
+ORD-1133,31-12-2023,Customer_391,Kochi,South,Priya Nair,Office Supplies,Printer,6.0,9912.58,20.0,47580.38,Cash,Delivered
+ORD-1074,2023-07-26,,Jaipur,North,Amit Sharma,Clothings,Formal Shirt,5.0,1153.91,10.0,5192.6,Net Banking,Returned
+ORD-1240,2023-01-22,Customer_659,Jaipur,North,Neha Joshi,Sport,Cricket Bat,9.0,2209.25,10.0,17894.92,Card,Returned
+ORD-1210,2023-01-22,Customer_316,Jaipur,North,Sneha Patel,Clothing,Sneakers,10.0,2910.54,0.0,29105.4,Net Banking,Delivered
+ORD-1011,2023-11-25,Customer_214,Mumbai,West,Divya Iyer,Sports,Yoga Mat,2.0,717.56,20.0,1148.1,UPI,Returned
+ORD-1118,2023-07-22,,Surat,West,Arjun Mehta,Electronics,Smartphone,10.0,32076.68,15.0,272651.78,UPI,Delivered
+ORD-1046,04/29/2023,,Hyderabad,south,Karan Singh,Office Supplies,Notebook Set,9.0,337.34,0.0,3036.06,Card,Delivered
+ORD-1097,2023-04-22,Customer_555,Lucknow,North,Neha Joshi,Clothing,Formal Shoes,5.0,4279.92,,21399.6,Card,Delivered
+ORD-1076,2023-06-09,Customer_665,Mumbai,West,Amit Sharma,Clothing,Formal Shirt,10.0,Rs. 1225.17,5.0,11639.11,Net Banking,Delivered
+ORD-1026,2023-06-03,Customer_423,Hyderabad,South,Neha Joshi,Office Supplies,Stapler,7.0,Rs. 457.73,5.0,3043.9,Cash,Delivered
+ORD-1165,02/19/2023,Customer_482,Ahmedabad,West,Karan Singh,Sports,Dumbbells,10.0,1731.39,20.0,13851.12,UPI,Pending
+ORD-1205,2023-01-05,Customer_617,Chandigarh,North,Sneha Patel,Electronics,Headphones,4.0,5613.94,0.0,22455.76,Net Banking,Delivered
+ORD-1019,2023-11-27,Customer_162,Surat,West,Priya Nair,Office Supplies,Pen Set,8.0,152.6,0.0,1220.8,Net Banking,Delivered
+ORD-1087,2023-12-13,Customer_175,Ahmedabad,West,Ravi Kumar,Office Supplies,Pen Set,1.0,156.02,15.0,132.62,Net Banking,Delivered
+ORD-1143,2023-01-25,Customer_379,Ahmedabad,West,Divya Iyer,Sports,Dumbbells,1.0,1761.5,5.0,1673.42,Cash,Delivered
+ORD-1153,2023-02-14,Customer_416,Patna,East,Priya Nair,Sports,Cycle,8.0,14444.66,20.0,92445.82,Net Banking,Returned
+ORD-1195,2023-05-21,Customer_670,Bhubaneswar,East,Amit Sharma,Furniture,Bookshelf,9.0,4461.1,5.0,38142.4,Card,Returned
+ORD-1115,14-Jul-23,Customer_612,Kolkata,East,Sneha Patel,Office Supplies,Printer,8.0,9191.91,15.0,62504.99,UPI,Delivered
+ORD-1181,2023-05-08,Customer_367,Kolkata,East,Amit Sharma,Electronics,Headphones,3.0,5487.6,5.0,15639.66,Net Banking,Delivered
+ORD-1176,2023-10-09,Customer_516,Lucknow,North,Ravi Kumar,Clothing,Jacket,2.0,3326.81,5.0,6320.94,Upi,Returned
+ORD-1098,2023-03-04,Customer_193,Jaipur,North,Neha Joshi,Office Supplies,File Cabinet,1.0,3128.28,15.0,2659.04,Card,Pending
+ORD-1178,2023-10-18,Customer_443,Chandigarh,North,Priya Nair,Clothing,Sneakers,5.0,2662.59,0.0,13312.95,UPI,Returned
+ORD-1061,2023-04-09,Customer_222,Patna,East,Divya Iyer,Office Supplies,Pen Set,5.0,145.96,10.0,656.82,Card,Delivered
+ORD-1017,2023-06-19,Customer_626,Bangalore,South,Priya Nair,Electronics,Laptop,4.0,67635.23,0.0,270540.92,Netbanking,Delivered
+ORD-1056,2023-09-25,Customer_730,Lucknow,North,Arjun Mehta,Clothing,Jacket,0.0,3386.65,15.0,8635.96,Net Banking,Returned
+ORD-1127,29/12/2023,Customer_417,Jaipur,North,Priya Nair,Sports,Football,5.0,914.75,,3887.69,Net Banking,Delivered
+ORD-1093,2023-07-22,Customer_370,Pune,West,Amit Sharma,Electronics,Smartphone,7.0,31570.48,20.0,176794.69,Cash,Returned
+ORD-1230,2023-12-13,Customer_858,Delhi,North,Ravi Kumar,Office Supplies,Printer,1.0,9640.57,10.0,8676.51,Card,Pending
+ORD-1083,2023-10-01,Customer_424,Surat,West,Karan Singh,Office Supplies,Notebook Set,2.0,362.33,10.0,652.19,Net Banking,Pending
+ORD-1186,2023-08-15,Customer_796,Chennai,South,Priya Nair,Sports,Cycle,3.0,15531.73,10.0,41935.67,Card,Pending
+ORD-1039,2023-07-27,Customer_411,Kochi,south,Amit Sharma,Furniture,Sofa,-1.0,25172.76,20.0,60414.62,UPI,Delivered
+ORD-1144,2023-09-12,  Customer_916  ,Surat,West,Divya Iyer,Clothing,Sneakers,6.0,2798.94,5.0,15953.96,UPI,Delivered
+ORD-1183,2023-12-27,Customer_806,Chandigarh,North,Arjun Mehta,clothing,Jacket,7.0,Rs. 3648.09,20.0,20429.3,Cash,Delivered
+ORD-1233,2023-05-15,Customer_640,Jaipur,North,Neha Joshi,Sports,Football,6.0,945.97,5.0,5392.03,UPI,Pending
+ORD-1078,09/18/2023,Customer_984,,South,Ravi Kumar,Clothing,Formal Shoes,7.0,4377.18,5.0,29108.25,Cash,Delivered
+ORD-1120,12/02/2023,Customer_281,Chandigarh,North,Priya Nair,Furniture,Bookshelf,-1.0,4343.79,20.0,10425.1,Net Banking,Returned
+,,,,,,,,,,,,,
+ORD-1105,2023-07-31,Customer_947,Pune,West,Divya Iyer,Electronics,Laptop,7.0,67522.59,15.0,401759.41,Net Banking,Returned
+ORD-1169,2023-09-26,Customer_251,Pune,West,Karan Singh,Office Supplies,File Cabinet,1.0,3193.74,20.0,2554.99,Card,Delivered
+ORD-1003,2023-06-22,Customer_194,Guwahati,east,Priya Nair,Electronics,Smartphone,6.0,30897.53,10.0,166846.66,Net Banking,Delivered
+ORD-1125,2023-07-18,Customer_893,Chennai,South,Karan Singh,Clothing,Sneakers,6.0,2917.02,10.0,15751.91,UPI,Pending
+ORD-1140,2023-01-09,Customer_907,Delhi,North,Divya Iyer,Clothing,Sneakers,0.0,2731.02,10.0,17205.43,Cash,Delivered
+ORD-1085,2023-07-11,Customer_249,,South,Karan Singh,Office Supplies,Printer,6.0,9303.7,0.0,55822.2,Card,Pending
+ORD-1159,2023-04-15,Customer_721,Pune,West,Divya Iyer,Electronics,Laptop,8.0,64897.63,15.0,441303.88,Card,Delivered
+ORD-1138,2023-09-13,Customer_747,Lucknow,North,Amit Sharma,Furnitures,Sofa,2.0,25841.72,0.0,51683.44,Card,Delivered
+ORD-1145,10-02-2023,Customer_776,Pune,West,Divya Iyer,Electronics,Headphones,9.0,5401.67,10.0,43753.53,UPI,Delivered
+ORD-1070,05-Jun-23,Customer_378,Jaipur,North,Karan Singh,Furniture,Bookshelf,-1.0,4485.91,0.0,35887.28,Net Banking,Returned
+ORD-1003,22-Jun-23,Customer_194,Guwahati,East,Priya Nair,Electronics,Smartphone,6.0,30897.53,10.0,166846.66,Net Banking,Delivered
+ORD-1126,2023-05-26,Customer_841,Jaipur,North,Arjun Mehta,Office Supplies,Printer,2.0,9669.46,20.0,15471.14,Card,Delivered
+ORD-1241,2023-02-14,Customer_986,Delhi,North,Neha Joshi,Furniture,Bookshelf,8.0,4431.86,10.0,31909.39,card,Delivered
+ORD-1180,2023-11-24,Customer_946,,South,,electronic,Tablet,10.0,21286.09,5.0,202217.85,Net Banking,Pending
+ORD-1185,05-07-2023,Customer_677,Bangalore,South,Priya Nair,Furniture,Wardrobe,9.0,18050.71,15.0,138087.93,,Delivered
+ORD-1091,2023-06-17,Customer_279,Patna,East,Karan Singh,Clothing,Formal Shirt,3.0,1249.16,0.0,3747.48,Card,Delivered
+ORD-1235,11-Jul-23,Customer_623,Delhi,North,Ravi Kumar,Furnture,Bookshelf,4.0,4327.63,10.0,15579.47,net banking,Returned
+ORD-1210,2023-01-22,Customer_316,Jaipur,North,Sneha Patel,Clothing,Sneakers,10.0,2910.54,,29105.4,Net Banking,Delivered
+ORD-1168,2023-02-26,Customer_697,Surat,West,Karan Singh,Sports,Yoga Mat,1.0,Rs. 688.19,10.0,619.37,UPI,Delivered
+ORD-1030,2023-05-22,Customer_103,Patna,East,Amit Sharma,Sports,Dumbbells,1.0,1824.17,0.0,1824.17,UPI,Delivered
+ORD-1199,20/06/2023,Customer_115,Chandigarh,North,Arjun Mehta,Electronics,Smartphone,8.0,33182.32,5.0,252185.63,Card,
+ORD-1179,2023-06-19,Customer_848,Surat,West,Ravi Kumar,Furniture,Wardrobe,5.0,18555.86,5.0,88140.33,Net Banking,Delivered
+ORD-1119,28/06/2023,Customer_844,Kolkata,East,Divya Iyer,Furniture,Office Chair,9.0,8239.82,20.0,59326.7,Card,Delivered
+ORD-1114,2023-06-04,Customer_885,Guwahati,East,Sneha Patel,Electronics,Smartphone,10.0,30424.6,0.0,304246.0,Card,Delivered
+ORD-1006,2023-05-17,Customer_723,Bhubaneswar,East,Priya Nair,Clothing,Jacket,6.0,3398.33,10.0,18350.98,Netbanking,Pending
+ORD-1057,2023-08-19,Customer_868,Ahmedabad,West,Sneha Patel,Sports,Yoga Mat,4.0,684.52,0.0,2738.08,card,Pending
+ORD-1141,2023-06-23,Customer_950,Hyderabad,South,Ravi Kumar,Electronics,Smartwatch,3.0,11822.76,0.0,35468.28,Net Banking,Returned
+ORD-1163,2023-11-02,Customer_392,Ahmedabad,West,Neha Joshi,FURNITURE,Study Desk,1.0,11737.63,0.0,11737.63,Cash,
+ORD-1128,06/08/2023,  Customer_319  ,Kochi,South,Ravi Kumar,Sports,Cricket Bat,9.0,Rs. 2094.01,,16961480.0,UPI,Returned
+ORD-1066,2023-08-15,Customer_980,Pune,West,Arjun Mehta,Sports,Cycle,9.0,14925.77,15.0,114182.14,Net Banking,Delivered
+ORD-1147,14/12/2023,Customer_135,Pune,West,Neha Joshi,Office Supplies,File Cabinet,1.0,3311.57,5.0,3145.99,Card,Delivered
+ORD-1086,2023-07-15,Customer_609,Pune,West,Sneha Patel,Sports,Football,3.0,960.4,0.0,2881.2,Card,Delivered
+ORD-1228,2023-06-01,Customer_187,Pune,West,Karan Singh,Sports,Cycle,6.0,14974.16,0.0,89844.96,Cash,Delivered
+ORD-1160,13/06/2023,Customer_577,Bhubaneswar,East,Sneha Patel,Office Supplies,Pen Set,6.0,150.92,20.0,724.42,Cash,Delivered
+ORD-1032,2023-01-21,  Customer_315  ,Bangalore,South,Divya Iyer,Clothing,Jeans,5.0,1871.82,10.0,8423.19,Card,Delivered
+ORD-1013,2023-02-27,Customer_999,Kolkata,East,Divya Iyer,Furniture,Wardrobe,10.0,17979.49,10.0,161815.41,UPI,Delivered
+ORD-1036,2023-05-16,Customer_211,,East,Amit Sharma,Electronics,Laptop,3.0,68006.47,20.0,163215.53,Net Banking,Delivered
+ORD-1029,2023-11-06,Customer_834,Bangalore,South,Sneha Patel,Office Supplies,Printer,9.0,9283.73,5.0,79375.89,UPI,Delivered
+ORD-1043,2023-12-23,Customer_151,Mumbai,West,Neha Joshi,Furniture,Study Desk,2.0,11662.61,15.0,19826.44,Card,Delivered
+ORD-1200,2023-05-25,Customer_577,Chandigarh,North,Karan Singh,Clothing,Jeans,7.0,1809.37,5.0,12032.31,net banking,Delivered
+ORD-1109,2023-08-08,Customer_723,Jaipur,North,Amit Sharma,Office supplies,File Cabinet,2.0,3223.71,10.0,5802.68,UPI,Delivered
+ORD-1109,2023-08-08,Customer_723,Jaipur,North,Amit Sharma,Office Supplies,File Cabinet,2.0,3223.71,10.0,5802.68,UPI,Delivered
+ORD-1023,05-10-2023,Customer_865,Ahmedabad,West,Amit Sharma,Furniture,Study Desk,4.0,12095.02,0.0,48380.08,UPI,Delivered
+ORD-1248,2023-08-08,Customer_805,Lucknow,North,Sneha Patel,Electronics,Smartphone,8.0,33573.88,0.0,268591.04,Card,Delivered
+ORD-1094,2023-08-30,Customer_734,Guwahati,east,Amit Sharma,Office Supplies,File Cabinet,6.0,3255.95,0.0,19535.7,UPI,Pending
+ORD-1182,2023-12-01,Customer_809,Ahmedabad,West,Divya Iyer,Office Supplies,Notebook Set,10.0,332.9,20.0,2663.2,Card,Delivered
+ORD-1246,2023-08-08,  Customer_606  ,Jaipur,North,Sneha Patel,Electronics,Headphones,2.0,5443.74,20.0,8709.98,UPI,Delivered
+ORD-1052,06-Mar-23,Customer_785,Chandigarh,North,,Electronics,Smartphone,1.0,30887.62,20.0,24710.1,Cash,Pending
+ORD-1113,2023-02-26,Customer_794,Pune,West,Arjun Mehta,Clothing,Jacket,9.0,3445.81,0.0,31012.29,Net Banking,Pending
+ORD-1187,2023-08-01,Customer_677,Surat,West,Neha Joshi,Electronics,Smartwatch,1.0,11558.33,15.0,9824.58,Cash,Pending
+ORD-1096,23-12-2023,Customer_701,Kochi,South,Karan Singh,Sports,Football,8.0,966.2,10.0,6956.64,cash,Returned
+ORD-1155,2023-03-26,Customer_430,Bangalore,South,Ravi Kumar,Furniture,Sofa,2.0,24132.54,,38612.06,Card,Delivered
+ORD-1213,2023-11-11,Customer_892,Guwahati,East,Karan Singh,Electronics,Laptop,4.0,63963.85,0.0,255855.4,cash,Delivered
+ORD-1077,2023-05-30,Customer_525,Bangalore,South,Arjun Mehta,Electronics,Headphones,3.0,5737.96,15.0,14631.8,Net Banking,Returned
+ORD-1209,2023-07-13,Customer_157,Bangalore,South,Neha Joshi,Furniture,Bookshelf,1.0,4457.38,0.0,4457.38,card,Delivered
+ORD-1042,2023-10-22,Customer_835,Bangalore,South,Sneha Patel,Clothing,Formal Shoes,8.0,4362.18,15.0,29662.82,Net Banking,Returned
+ORD-1202,2023-10-27,Customer_402,Pune,West,Karan Singh,Electronics,Smartwatch,3.0,11712.93,0.0,35138.79,Card,Delivered
+ORD-1229,2023-09-01,Customer_548,Guwahati,East,Priya Nair,Office Supplies,Notebook Set,4.0,349.4,20.0,1118.08,Net Banking,Delivered
+ORD-1027,2023-05-16,Customer_457,Mumbai,West,Ravi Kumar,Sports,Cycle,2.0,14569.73,20.0,23311.57,Cash,Delivered
+ORD-1178,2023-10-18,Customer_443,Chandigarh,North,Priya Nair,Clothing,Sneakers,5.0,2662.59,0.0,13312.95,UPI,Returned
+ORD-1149,2023-05-08,Customer_126,Jaipur,North,Priya Nair,Sports,Football,7.0,964.21,10.0,6074.52,Card,Returned
+ORD-1001,2023-12-13,Customer_704,Chandigarh,north,Priya Nair,Electronics,Tablet,4.0,22520.24,5.0,85576.91,Net Banking,Delivered
+ORD-1214,10-08-2023,Customer_796,Bhubaneswar,East,Ravi Kumar,Clothing,Sneakers,6.0,2923.52,20.0,14032.9,Net Banking,Delivered
+ORD-1101,2023-03-31,Customer_153,Jaipur,North,Arjun Mehta,furniture,Office Chair,4.0,8350.21,20.0,26720.67,Card,Returned
+ORD-1238,2023-08-16,Customer_271,Surat,West,Neha Joshi,SPORTS,Cycle,7.0,Rs. 14873.45,15.0,88497.03,Cash,Pending
+ORD-1196,2023-07-29,,Surat,West,Ravi Kumar,Electronis,Tablet,9.0,22431.88,10.0,181698.23,Net Banking,Delivered
+ORD-1099,2023-10-11,Customer_700,Chandigarh,north,Sneha Patel,Electronics,Tablet,3.0,21351.45,20.0,51243.48,Card,Delivered
+ORD-1037,2023-01-23,,Kolkata,East,Karan Singh,Clothing,Formal Shoes,7.0,4069.83,20.0,22791.05,,Delivered
+ORD-1062,2023-07-04,Customer_409,Hyderabad,South,Ravi Kumar,Clothing,Jacket,2.0,Rs. 3428.69,5.0,6514.51,Cash,Pending
+ORD-1193,2023-11-03,Customer_350,Delhi,North,Amit Sharma,Furniture,Study Desk,2.0,11440.29,20.0,18304.46,Cash,Returned
+ORD-1151,2023-12-16,Customer_783,Lucknow,North,Divya Iyer,Furnture,Office Chair,3.0,8922.67,15.0,22752.81,upi,Delivered
+ORD-1012,02/24/2023,Customer_961,Hyderabad,south,Arjun Mehta,Clothing,Formal Shirt,9.0,1200.92,5.0,10267.87,Card,Delivered
+,,,,,,,,,,,,,
+ORD-1212,04/10/2023,Customer_493,Bhubaneswar,East,Divya Iyer,Furniture,Wardrobe,10.0,18318.66,15.0,155708.61,Card,Delivered
+ORD-1028,2023-12-01,Customer_783,Guwahati,East,Amit Sharma,Office Supplies,Stapler,9.0,455.03,,3685.74,UPI,Delivered
+ORD-1166,2023-03-12,Customer_923,Guwahati,East,Divya Iyer,Furniture,Study Desk,9.0,11454.36,0.0,103089.24,UPI,Pending
+ORD-1005,2023-02-10,Customer_987,,East,Sneha Patel,Sports,Football,1.0,975.94,5.0,927.14,Cash,Returned
+ORD-1123,2023-01-22,Customer_929,Lucknow,North,Neha Joshi,Sports,Cycle,8.0,15081.47,,96521.41,Card,Delivered
+ORD-1033,2023-04-01,Customer_125,Bhubaneswar,East,Karan Singh,Sports,Dumbbells,4.0,1885.72,5.0,7165.74,Card,Delivered
+ORD-1156,2023-06-05,Customer_614,Bhubaneswar,East,Priya Nair,Electronics,Tablet,9.0,Rs. 21175.37,10.0,171520.5,Card,Pending
+ORD-1191,2023-10-06,Customer_644,Bangalore,South,Karan Singh,Furniture,Office Chair,5.0,8647.47,15.0,36751.75,Net Banking,Delivered
+ORD-1139,2023-12-07,Customer_636,Patna,East,Priya Nair,Clothing,Formal Shirt,4.0,1189.99,20.0,3807.97,UPI,Delivered
+ORD-1063,06/03/2023,Customer_205,Bangalore,south,Neha Joshi,Office Supplies,Printer,9.0,9687.55,10.0,78469.15,UPI,Pending
+ORD-1136,2023-03-13,Customer_559,Kolkata,East,Neha Joshi,Furniture,Study Desk,5.0,Rs. 12235.29,15.0,51999.98,Cash,Delivered
+ORD-1129,21/02/2023,Customer_777,Chennai,South,Amit Sharma,furniture,Study Desk,2.0,12413.31,10.0,22343.96,UPI,Pending
+ORD-1243,2023-05-17,Customer_238,Bhubaneswar,East,Priya Nair,Sprots,Yoga Mat,6.0,685.25,10.0,3700.35,Net Banking,Delivered
+ORD-1088,2023-09-05,Customer_342,Guwahati,East,Priya Nair,Clothing,Jacket,5.0,3674.78,5.0,17455.21,Net Banking,Pending
+ORD-1071,2023-02-16,,Lucknow,North,Sneha Patel,Sports,Cricket Bat,6.0,2145.08,20.0,10296.38,Cash,Delivered
+ORD-1206,10-Oct-23,Customer_112,Lucknow,north,Karan Singh,Sports,Cycle,8.0,14259.92,0.0,114079.36,Cash,Pending
+ORD-1065,2023-06-05,Customer_354,Mumbai,West,Priya Nair,Electronics,Smartwatch,3.0,12373.37,5.0,35264.1,Cash,Pending
+ORD-1045,2023-05-03,  Customer_550  ,Pune,West,,Clothing,Jacket,5.0,3494.61,20.0,13978.44,Cash,Delivered
+ORD-1174,2023-09-03,Customer_306,Kolkata,East,Sneha Patel,Electronics,Tablet,6.0,22343.14,15.0,113950.01,UPI,Pending
+ORD-1157,2023-01-15,Customer_146,Hyderabad,South,Priya Nair,Furniture,Wardrobe,10.0,18585.43,0.0,185854.3,UPI,Delivered
+ORD-1041,2023-04-26,Customer_250,Patna,East,Sneha Patel,Sports,Cycle,2.0,15259.19,5.0,28992.46,Cash,Delivered
+ORD-1124,2023-06-25,Customer_616,Mumbai,West,Priya Nair,Sports,Football,8.0,979.54,0.0,7836.32,,Delivered
+ORD-1154,2023-08-19,,Mumbai,West,Neha Joshi,Clothing,Formal Shoes,3.0,Rs. 4259.78,10.0,11501.41,UPI,Delivered
+ORD-1024,2023-04-06,Customer_709,Chandigarh,North,Priya Nair,Sports,Dumbbells,1.0,1724.42,20.0,1379.54,Cash,Delivered
+ORD-1201,29-Aug-23,Customer_308,Guwahati,East,Divya Iyer,Office Supplies,File Cabinet,8.0,3296.9,,26375.2,UPI,Delivered
+ORD-1197,2023-10-15,,Ahmedabad,West,,FURNITURE,Study Desk,3.0,12497.69,15.0,31869.11,Card,Returned
+ORD-1082,03/15/2023,Customer_991,Kolkata,East,Karan Singh,Electronics,Headphones,9.0,5233.44,15.0,40035.82,Card,Delivered
+ORD-1040,2023-04-20,Customer_912,Ahmedabad,West,Neha Joshi,sports,Cycle,8.0,14913.24,15.0,101410.03,Card,Delivered
+ORD-1223,07-Oct-23,Customer_798,Ahmedabad,West,Ravi Kumar,Office Supplies,Pen Set,2.0,145.5,20.0,232.8,Cash,Returned
+ORD-1048,2023-08-03,Customer_599,Ahmedabad,West,Sneha Patel,Clothing,Formal Shirt,5.0,1242.41,15.0,5280.24,Card,Delivered
+ORD-1095,20-01-2023,Customer_604,Hyderabad,South,Arjun Mehta,Electronics,Headphones,7.0,5301.88,0.0,37113.16,Cash,Delivered
+ORD-1234,2023-11-13,Customer_933,Mumbai,West,Ravi Kumar,Sports,Dumbbells,6.0,1862.19,10.0,10055.83,UPI,Pending
+ORD-1162,2023-06-07,Customer_123,Guwahati,East,,Furniture,Study Desk,9.0,11998.51,15.0,91788.6,Upi,Returned
+ORD-1044,2023-09-16,Customer_950,Ahmedabad,West,Karan Singh,Furniture,Sofa,8.0,25787.52,,165040.13,Net Banking,Delivered
+ORD-1146,2023-06-30,Customer_381,Pune,West,Karan Singh,Sports,Dumbbells,8.0,1790.48,,12891.46,Cash,Delivered
+ORD-1184,2023-11-07,  Customer_525  ,Bhubaneswar,East,Divya Iyer,Sports,Football,3.0,Rs. 917.05,15.0,2338.48,Net Banking,Pending
+ORD-1004,2023-07-13,Customer_665,Patna,east,Priya Nair,Office Supplies,File Cabinet,1.0,3211.59,15.0,2729.85,UPI,Pending
+ORD-1106,2023-03-20,Customer_168,Surat,West,Neha Joshi,Electronics,Tablet,6.0,21723.46,,117306.68,Cash,Delivered
+ORD-1054,2023-12-20,Customer_204,Lucknow,North,Sneha Patel,Office Supplies,File Cabinet,7.0,3064.32,5.0,20377.73,UPI,Pending
+ORD-1134,2023-04-24,Customer_457,Bhubaneswar,East,Neha Joshi,Clothing,Formal Shoes,7.0,Rs. 4387.49,0.0,30712.43,Cash,Returned
+ORD-1244,2023-12-13,Customer_601,Bhubaneswar,East,Karan Singh,Furniture,Study Desk,3.0,12394.18,10.0,33464.29,Card,Pending
+ORD-1207,2023-04-02,Customer_198,Kolkata,East,Priya Nair,sports,Yoga Mat,9.0,721.43,15.0,5518.94,Card,Delivered
+ORD-1249,2023-11-29,Customer_153,Hyderabad,South,Ravi Kumar,Office Supplies,Printer,5.0,9378.25,0.0,46891.25,Netbanking,Delivered
+ORD-1050,2023-07-14,Customer_316,Chandigarh,North,Divya Iyer,Electronics,Headphones,8.0,5252.66,5.0,39920.22,Net Banking,Delivered
+ORD-1164,2023-01-27,Customer_471,Ahmedabad,West,Sneha Patel,FURNITURE,Bookshelf,7.0,4295.36,10.0,27060.77,UPI,Delivered
+ORD-1081,2023-11-30,Customer_607,Surat,west,Ravi Kumar,Electronics,Tablet,7.0,Rs. 23074.51,15.0,137293.33,Cash,Delivered
+ORD-1035,2023-02-05,Customer_459,Kolkata,East,Arjun Mehta,furniture,Study Desk,4.0,11793.91,15.0,40099.29,Net Banking,Pending
+ORD-1226,2023-11-27,Customer_870,,North,Karan Singh,Electronics,Smartphone,3.0,30541.75,20.0,73300.2,UPI,Returned
+ORD-1008,2023-09-13,Customer_758,Pune,West,Karan Singh,OFFICE SUPPLIES,Printer,10.0,9227,10.0,83043.0,Net Banking,Delivered
+ORD-1172,2023-06-02,Customer_404,Guwahati,East,Sneha Patel,Office Supplies,File Cabinet,4.0,3129.28,5.0,11891.26,UPI,Delivered
+ORD-1225,21-12-2023,Customer_656,Surat,West,Karan Singh,Electronics,Headphones,10.0,5518.9,15.0,46910.65,Cash,Delivered
+ORD-1111,2023-07-09,Customer_838,Lucknow,North,Arjun Mehta,SPORTS,Football,7.0,Rs. 934.89,15.0,5562.6,UPI,Pending
+ORD-1092,2023-09-04,Customer_864,Patna,East,Arjun Mehta,Sports,Cycle,3.0,15621.07,10.0,42176.89,UPI,Delivered
+ORD-1084,11-Aug-23,Customer_878,Chandigarh,North,Priya Nair,Sport,Cricket Bat,5.0,2254.29,5.0,10707.88,Cash,Returned
+ORD-1239,2023-03-28,Customer_679,Delhi,north,Neha Joshi,Furniture,Bookshelf,5.0,4516.92,5.0,21455.37,Net Banking,Pending
+ORD-1245,2023-05-23,Customer_565,Guwahati,East,Divya Iyer,Clothing,Sneakers,2.0,2772.8,0.0,5545.6,Net Banking,Delivered
+ORD-1090,2023-12-04,Customer_743,Chennai,South,Ravi Kumar,Sports,Yoga Mat,4.0,682.54,20.0,2184130.0,Cash,Delivered
+ORD-1009,2023-07-24,Customer_324,Patna,East,Divya Iyer,Furniture,Study Desk,10.0,12477.39,15.0,106057.81,Card,
+ORD-1014,30-Sep-23,Customer_231,Delhi,North,Ravi Kumar,Furniture,Wardrobe,2.0,18568.84,,31567.03,Net Banking,Pending
+ORD-1060,2023-06-06,Customer_584,Ahmedabad,west,Divya Iyer,Electronics,Laptop,4.0,66246.62,15.0,225238.51,UPI,Returned
+ORD-1231,04/29/2023,Customer_744,Hyderabad,South,Karan Singh,Sports,Football,9.0,993.55,15.0,7600.66,Card,Delivered
+ORD-1132,2023-09-15,Customer_265,Surat,West,Karan Singh,Furniture,Bookshelf,8.0,4625.16,10.0,33301.15,Card,Pending
+ORD-1018,31-08-2023,Customer_294,Pune,West,Karan Singh,Furniture,Wardrobe,10.0,17950.81,20.0,143606.48,Cash,Delivered
+ORD-1167,2023-07-21,Customer_707,Pune,West,Arjun Mehta,Furniture,Wardrobe,6.0,17673.35,20.0,84832.08,UPI,Pending
+ORD-1073,11-Sep-23,Customer_778,Mumbai,West,Arjun Mehta,Office Supplies,Notebook Set,3.0,346.91,10.0,936.66,Net Banking,Pending
+ORD-1242,2023-04-16,Customer_924,Kochi,South,Sneha Patel,Sports,Yoga Mat,3.0,674.75,20.0,1619.4,CARD,
+ORD-1135,2023-07-11,Customer_128,Jaipur,North,Sneha Patel,Cloting,Formal Shoes,4.0,4407.7,15.0,14986.18,UPI,Delivered
+ORD-1218,2023-05-05,Customer_801,Lucknow,North,Ravi Kumar,Office Supplies,Pen Set,2.0,156.08,20.0,249.73,Net Banking,Delivered
+ORD-1247,2023-12-16,Customer_147,Bhubaneswar,East,Amit Sharma,Office Supplies,File Cabinet,10.0,3292.26,15.0,27984.21,Cash,Returned
+ORD-1064,2023-05-10,Customer_216,Guwahati,East,,Clothing,Sneakers,6.0,2930.34,5.0,16702.94,Cash,Returned
+ORD-1055,2023-02-05,Customer_112,Jaipur,North,Divya Iyer,Sports,Cricket Bat,9.0,2235.53,15.0,17101.8,Net Banking,Returned
+ORD-1108,2023-10-23,Customer_258,Patna,East,Sneha Patel,Clothing,Formal Shirt,10.0,1182.2,10.0,10639.8,Net Banking,Delivered
+ORD-1051,2023-10-04,Customer_458,Guwahati,East,Amit Sharma,Clothing,Jacket,5.0,3489.61,0.0,17448.05,Upi,Delivered
+ORD-1221,2023-11-30,Customer_407,Surat,west,Ravi Kumar,Office Supplies,File Cabinet,6.0,3147.12,15.0,16050.31,UPI,Pending
+ORD-1175,2023-09-29,Customer_753,Bhubaneswar,East,Sneha Patel,Furniture,Office Chair,4.0,8644.36,0.0,34577.44,Card,Delivered
+ORD-1222,22-Dec-23,Customer_689,Chennai,South,Neha Joshi,Clothing,Jacket,7.0,3427.01,10.0,21590.16,Card,Delivered
+ORD-1190,06/28/2023,Customer_282,Surat,west,Priya Nair,Clothing,Sneakers,2.0,2697.24,20.0,4315.58,Net Banking,Pending
+ORD-1015,2023-12-20,Customer_830,Kochi,South,Sneha Patel,Office Supplies,File Cabinet,4.0,3281.68,20.0,10501.38,UPI,Returned
+ORD-1208,2023-02-10,Customer_515,Hyderabad,South,Divya Iyer,Sports,Cycle,6.0,15442.4,10.0,83388960.0,Net Banking,Pending
+ORD-1237,2023-07-03,Customer_596,Patna,East,Amit Sharma,FURNITURE,Study Desk,8.0,11464.33,20.0,73371.71,net banking,Delivered
+ORD-1220,2023-08-23,Customer_238,Chandigarh,north,,Office Supplies,Notebook Set,8.0,354.08,20.0,2266.11,UPI,Delivered
+ORD-1170,2023-12-20,Customer_520,Lucknow,North,Sneha Patel,Furniture,Office Chair,6.0,8203.72,15.0,41838.97,Net Banking,Delivered
+ORD-1059,2023-09-08,Customer_807,Bhubaneswar,East,Sneha Patel,Sports,Cricket Bat,2.0,2248.42,5.0,4272.0,Net Banking,Returned
+ORD-1219,2023-08-11,Customer_531,Hyderabad,South,Arjun Mehta,Office Supplies,Notebook Set,8.0,334.71,5.0,2543.8,UPI,Returned
+ORD-1049,2023-08-28,Customer_737,Surat,West,Ravi Kumar,Clothing,Formal Shirt,6.0,1226.9,15.0,6257190.0,Cash,Returned
+ORD-1089,2023-10-17,Customer_720,Patna,East,Amit Sharma,Sports,Yoga Mat,1.0,684.21,15.0,581.58,Net Banking,
+ORD-1022,2023-05-16,Customer_392,Chennai,South,Neha Joshi,Clothings,Formal Shirt,7.0,1258.24,0.0,8807.68,CARD,Pending
+ORD-1058,01-Jul-23,Customer_448,Surat,West,Arjun Mehta,Office Supplies,Printer,6.0,9488.17,5.0,54082.57,,Pending
+ORD-1204,2023-10-05,Customer_636,Pune,West,Amit Sharma,Furniture,Bookshelf,3.0,4494.74,20.0,10787.38,Cash,Delivered
+ORD-1161,2023-11-12,,Mumbai,West,Karan Singh,FURNITURE,Study Desk,1.0,12534.46,10.0,11281.01,Card,Delivered
+ORD-1034,2023-08-29,Customer_304,Pune,west,Sneha Patel,Furniture,Bookshelf,2.0,4667.48,15.0,7934.72,Net Banking,Delivered
+ORD-1188,2023-10-24,Customer_146,Surat,West,Priya Nair,Office Supplies,Printer,5.0,9733.51,0.0,48667.55,Net Banking,
+ORD-1192,2023-02-27,Customer_928,Chennai,South,Amit Sharma,Clothing,Jacket,5.0,3653.09,5.0,17352.18,Net Banking,Pending
+ORD-1130,2023-11-16,Customer_838,Chennai,South,Ravi Kumar,sports,Dumbbells,3.0,1859.64,5.0,5299.97,Net Banking,Delivered
+ORD-1038,2023-12-08,Customer_434,Ahmedabad,West,Karan Singh,Electronics,Tablet,2.0,22015.67,10.0,39628.21,Net Banking,
+ORD-1158,2023-06-04,Customer_350,Surat,West,Neha Joshi,Sport,Cricket Bat,9.0,Rs. 2231.22,10.0,18072.88,Net Banking,Delivered
+ORD-1236,2023-12-22,Customer_668,Kochi,south,Ravi Kumar,Sports,Dumbbells,3.0,1824.39,15.0,4652.19,Card,Returned
+ORD-1179,2023-06-19,Customer_848,Surat,west,Ravi Kumar,Furniture,Wardrobe,5.0,18555.86,5.0,88140.33,cash,Delivered
+ORD-1002,2023-04-12,Customer_325,Chandigarh,North,Karan Singh,Electronics,Smartphone,9.0,30484.92,20.0,219491.42,Net Banking,Pending
+ORD-1053,2023-02-28,,Hyderabad,south,Ravi Kumar,Clothings,Jacket,3.0,3537.54,20.0,8490.1,card,Pending
+ORD-1150,2023-11-10,Customer_810,Ahmedabad,West,Arjun Mehta,Sports,Cricket Bat,5.0,2137.21,15.0,9083.14,card,Delivered
+ORD-1131,2023-08-18,Customer_646,Surat,west,Sneha Patel,office supplies,Stapler,10.0,461.36,10.0,4152.24,Card,Delivered
+ORD-1152,13/04/2023,  Customer_342  ,Bhubaneswar,East,Ravi Kumar,Office Supplies,Stapler,6.0,437.59,,2100.43,Net Banking,Delivered
+ORD-1104,2023-11-21,Customer_490,Chandigarh,North,Divya Iyer,Office Supplies,File Cabinet,-1.0,3128.01,5.0,5943.22,UPI,Returned
+ORD-1100,2023-10-04,Customer_917,Kolkata,East,Arjun Mehta,Furniture,Wardrobe,5.0,18877.55,5.0,89668.36,Card,Delivered
+ORD-1117,11/13/2023,Customer_951,Kolkata,east,Neha Joshi,Electronics,Headphones,6.0,5665.73,5.0,32294.66,UPI,Delivered
+ORD-1088,2023-09-05,Customer_342,Guwahati,East,Priya Nair,Clothing,Jacket,5.0,3674.78,5.0,17455.21,Net Banking,Pending
+ORD-1203,2023-12-17,Customer_363,Bhubaneswar,East,Divya Iyer,furniture,Sofa,8.0,Rs. 25386.52,20.0,162473.73,Net Banking,Returned
+ORD-1075,27-Jan-23,Customer_373,Jaipur,North,Sneha Patel,Furniture,Wardrobe,10.0,18225.74,15.0,154918.79,Card,Delivered
+ORD-1215,11/21/2023,  Customer_857  ,Kolkata,East,Ravi Kumar,Furniture,Office Chair,5.0,8398,5.0,39890.5,Net Banking,Delivered
+ORD-1211,2023-04-17,  Customer_870  ,,North,Ravi Kumar,Electronics,Tablet,3.0,20934.45,10.0,56523.02,Upi,Delivered
+ORD-1122,2023-01-30,Customer_951,Delhi,North,Divya Iyer,Office Supplies,File Cabinet,5.0,3184.61,15.0,13534.59,UPI,Delivered
+,,,,,,,,,,,,,
+ORD-1021,2023-05-02,Customer_516,Mumbai,West,Ravi Kumar,sports,Cricket Bat,9.0,Rs. 2303.18,0.0,20728.62,Net Banking,Returned
+ORD-1189,2023-04-03,,Delhi,North,Ravi Kumar,Sports,Cricket Bat,8.0,2153.16,0.0,17225.28,Net Banking,Delivered
+ORD-1072,2023-08-12,Customer_193,Lucknow,North,,furniture,Sofa,5.0,26242.36,,124651.21,CASH,Delivered
+ORD-1107,2023-10-15,Customer_786,Jaipur,North,Divya Iyer,clothing,Formal Shirt,3.0,Rs. 1147.2,20.0,2753.28,Cash,Returned
+ORD-1103,25/02/2023,  Customer_829  ,Kolkata,East,Neha Joshi,Clothings,Formal Shirt,8.0,1191.15,15.0,8099.82,net banking,Delivered

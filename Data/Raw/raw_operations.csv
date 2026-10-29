@@ -1,0 +1,1001 @@
+shipment_id,warehouse,carrier,shipping_cost,estimated_days,actual_days,status
+1,Chicago,UPS,13.33,5,6,Delayed
+2,Houston,USPS,29.39,4,9,Delayed
+3,New York,FedEx,44.28,5,4,On Time
+4,Chicago,FedEx,37.95,3,3,On Time
+5,Chicago,FedEx,41.3,3,8,Delayed
+6,Houston,FedEx,34.65,2,9,Delayed
+7,New York,DHL,36.15,6,5,On Time
+8,New York,FedEx,43.21,5,9,Delayed
+9,Chicago,DHL,16.24,2,2,On Time
+10,Los Angeles,DHL,27.02,6,3,On Time
+11,Chicago,FedEx,14.95,5,7,Delayed
+12,Chicago,FedEx,49.45,4,7,Delayed
+13,Chicago,UPS,47.48,5,6,Delayed
+14,Chicago,USPS,6.77,3,6,Delayed
+15,Houston,FedEx,36.75,3,2,On Time
+16,New York,UPS,46.64,4,6,Delayed
+17,Houston,UPS,13.13,2,4,Delayed
+18,Houston,USPS,30.56,6,3,On Time
+19,Houston,DHL,46.2,5,2,On Time
+20,Chicago,FedEx,6.53,3,1,On Time
+21,Los Angeles,USPS,36.38,2,5,Delayed
+22,New York,FedEx,18.38,4,2,On Time
+23,Los Angeles,UPS,46.6,3,2,On Time
+24,Houston,UPS,48.7,4,7,Delayed
+25,Houston,DHL,47.49,5,8,Delayed
+26,Los Angeles,UPS,26.34,6,8,Delayed
+27,Los Angeles,UPS,43.79,3,4,Delayed
+28,Los Angeles,USPS,43.0,3,1,On Time
+29,Houston,FedEx,19.36,5,7,Delayed
+30,Houston,FedEx,42.3,2,1,On Time
+31,New York,USPS,6.67,6,4,On Time
+32,New York,DHL,31.83,3,8,Delayed
+33,Houston,FedEx,15.35,6,2,On Time
+34,Los Angeles,UPS,10.43,3,6,Delayed
+35,Los Angeles,FedEx,8.46,6,6,On Time
+36,New York,UPS,36.33,4,9,Delayed
+37,Houston,DHL,20.29,3,5,Delayed
+38,New York,USPS,37.61,6,4,On Time
+39,New York,FedEx,7.94,2,5,Delayed
+40,Chicago,USPS,19.19,4,5,Delayed
+41,Chicago,FedEx,29.28,4,8,Delayed
+42,Chicago,UPS,40.58,2,8,Delayed
+43,Los Angeles,USPS,19.34,6,2,On Time
+44,Houston,FedEx,33.17,5,7,Delayed
+45,Houston,UPS,44.87,2,8,Delayed
+46,Houston,USPS,32.71,6,6,On Time
+47,Houston,USPS,15.48,2,5,Delayed
+48,Chicago,FedEx,6.1,2,9,Delayed
+49,Los Angeles,FedEx,44.15,3,3,On Time
+50,Los Angeles,FedEx,5.96,6,4,On Time
+51,Chicago,UPS,44.36,5,9,Delayed
+52,Los Angeles,FedEx,28.8,3,6,Delayed
+53,Chicago,USPS,47.26,2,8,Delayed
+54,Houston,USPS,40.95,2,7,Delayed
+55,Chicago,FedEx,49.91,2,2,On Time
+56,Houston,FedEx,20.78,6,3,On Time
+57,Houston,DHL,39.52,6,1,On Time
+58,New York,USPS,23.09,3,9,Delayed
+59,Chicago,UPS,26.59,5,7,Delayed
+60,New York,DHL,33.24,3,1,On Time
+61,Chicago,FedEx,44.32,4,3,On Time
+62,Chicago,FedEx,49.28,2,4,Delayed
+63,New York,USPS,39.57,2,4,Delayed
+64,New York,FedEx,23.8,2,5,Delayed
+65,Chicago,UPS,23.96,3,3,On Time
+66,Los Angeles,USPS,38.19,3,3,On Time
+67,Houston,FedEx,15.74,2,1,On Time
+68,New York,USPS,9.97,3,7,Delayed
+69,Houston,FedEx,20.96,6,1,On Time
+70,Los Angeles,FedEx,17.93,6,2,On Time
+71,Los Angeles,FedEx,18.33,3,4,Delayed
+72,Los Angeles,UPS,15.51,2,4,Delayed
+73,New York,UPS,6.89,3,5,Delayed
+74,Los Angeles,USPS,5.8,3,2,On Time
+75,New York,FedEx,49.45,3,4,Delayed
+76,Los Angeles,FedEx,24.25,4,1,On Time
+77,Houston,UPS,22.29,6,2,On Time
+78,Houston,FedEx,35.58,5,1,On Time
+79,Chicago,UPS,14.82,5,4,On Time
+80,Houston,FedEx,47.75,4,4,On Time
+81,Chicago,USPS,40.39,3,7,Delayed
+82,Houston,FedEx,9.02,4,9,Delayed
+83,New York,FedEx,23.79,4,9,Delayed
+84,Houston,DHL,44.56,2,5,Delayed
+85,Chicago,UPS,47.51,6,1,On Time
+86,Chicago,FedEx,26.03,5,1,On Time
+87,Los Angeles,FedEx,32.6,3,6,Delayed
+88,New York,DHL,12.52,5,2,On Time
+89,Houston,DHL,49.6,5,8,Delayed
+90,Los Angeles,UPS,15.43,6,9,Delayed
+91,Houston,DHL,47.42,5,4,On Time
+92,Houston,USPS,34.23,5,5,On Time
+93,Los Angeles,DHL,32.35,4,8,Delayed
+94,Los Angeles,USPS,28.07,6,3,On Time
+95,Los Angeles,UPS,15.38,2,5,Delayed
+96,Los Angeles,UPS,12.94,3,3,On Time
+97,Los Angeles,UPS,14.92,5,3,On Time
+98,Houston,UPS,13.39,3,3,On Time
+99,Los Angeles,UPS,40.08,2,7,Delayed
+100,New York,USPS,20.76,3,7,Delayed
+101,Chicago,USPS,7.6,2,7,Delayed
+102,Los Angeles,UPS,48.61,4,8,Delayed
+103,Los Angeles,DHL,44.77,5,5,On Time
+104,Houston,FedEx,46.75,2,5,Delayed
+105,Los Angeles,UPS,49.77,3,4,Delayed
+106,Los Angeles,DHL,12.83,5,7,Delayed
+107,Los Angeles,FedEx,22.83,4,4,On Time
+108,Houston,UPS,39.12,5,2,On Time
+109,Los Angeles,UPS,36.32,2,4,Delayed
+110,Chicago,USPS,11.93,4,8,Delayed
+111,Houston,FedEx,41.71,3,9,Delayed
+112,Chicago,FedEx,15.1,4,3,On Time
+113,Houston,DHL,15.07,4,7,Delayed
+114,Los Angeles,USPS,29.16,6,9,Delayed
+115,Chicago,USPS,31.68,4,4,On Time
+116,Houston,USPS,31.1,4,3,On Time
+117,New York,USPS,9.12,5,5,On Time
+118,Los Angeles,FedEx,44.49,3,1,On Time
+119,Houston,FedEx,16.95,5,3,On Time
+120,New York,UPS,10.83,5,8,Delayed
+121,Houston,UPS,44.99,2,8,Delayed
+122,New York,USPS,48.0,5,4,On Time
+123,Los Angeles,USPS,43.8,6,2,On Time
+124,Chicago,USPS,41.43,6,8,Delayed
+125,New York,UPS,34.49,2,8,Delayed
+126,Houston,DHL,29.79,3,4,Delayed
+127,Los Angeles,DHL,8.91,3,3,On Time
+128,New York,UPS,23.38,5,2,On Time
+129,Houston,UPS,21.77,5,9,Delayed
+130,Houston,UPS,16.69,5,1,On Time
+131,Houston,UPS,37.55,3,7,Delayed
+132,New York,UPS,27.31,4,5,Delayed
+133,New York,UPS,8.65,6,8,Delayed
+134,New York,USPS,14.91,4,4,On Time
+135,Chicago,USPS,35.75,4,7,Delayed
+136,New York,USPS,8.43,3,5,Delayed
+137,New York,USPS,43.3,4,5,Delayed
+138,New York,UPS,27.28,2,9,Delayed
+139,Chicago,DHL,26.63,5,9,Delayed
+140,New York,FedEx,31.66,2,9,Delayed
+141,Houston,UPS,42.11,6,6,On Time
+142,New York,FedEx,20.65,5,6,Delayed
+143,Houston,DHL,35.51,4,5,Delayed
+144,Houston,USPS,30.46,6,9,Delayed
+145,Houston,DHL,17.02,5,8,Delayed
+146,Chicago,UPS,44.54,4,7,Delayed
+147,Chicago,USPS,40.88,2,7,Delayed
+148,Chicago,UPS,34.63,5,6,Delayed
+149,New York,USPS,43.28,4,5,Delayed
+150,Houston,FedEx,44.03,2,4,Delayed
+151,Chicago,FedEx,36.88,6,3,On Time
+152,Chicago,FedEx,42.67,6,3,On Time
+153,New York,DHL,36.39,6,6,On Time
+154,Chicago,UPS,35.61,6,4,On Time
+155,New York,DHL,32.84,3,6,Delayed
+156,Los Angeles,FedEx,38.87,5,3,On Time
+157,Chicago,UPS,12.14,5,4,On Time
+158,Los Angeles,FedEx,44.64,3,9,Delayed
+159,New York,DHL,44.23,4,5,Delayed
+160,Houston,DHL,6.32,4,7,Delayed
+161,Chicago,DHL,42.16,6,2,On Time
+162,New York,FedEx,10.8,2,5,Delayed
+163,Houston,UPS,20.08,4,9,Delayed
+164,Houston,UPS,38.46,2,3,Delayed
+165,Los Angeles,FedEx,12.23,5,9,Delayed
+166,New York,UPS,41.81,2,6,Delayed
+167,Houston,FedEx,42.45,5,4,On Time
+168,Chicago,UPS,27.84,3,7,Delayed
+169,Chicago,USPS,5.29,3,8,Delayed
+170,Los Angeles,USPS,17.92,6,6,On Time
+171,Houston,DHL,32.76,4,5,Delayed
+172,New York,USPS,49.15,6,6,On Time
+173,Chicago,USPS,33.43,5,5,On Time
+174,Houston,USPS,16.69,6,8,Delayed
+175,Houston,FedEx,33.53,2,1,On Time
+176,Los Angeles,USPS,29.3,5,7,Delayed
+177,Chicago,USPS,40.09,3,2,On Time
+178,Chicago,DHL,9.81,4,9,Delayed
+179,New York,USPS,39.25,5,1,On Time
+180,Chicago,USPS,29.36,5,6,Delayed
+181,New York,UPS,48.33,2,9,Delayed
+182,Chicago,DHL,20.38,4,1,On Time
+183,Los Angeles,DHL,33.47,3,4,Delayed
+184,Chicago,DHL,46.94,5,4,On Time
+185,New York,DHL,9.61,5,9,Delayed
+186,New York,DHL,47.18,2,5,Delayed
+187,Los Angeles,DHL,35.95,6,5,On Time
+188,Chicago,FedEx,8.05,3,6,Delayed
+189,Chicago,USPS,18.54,4,1,On Time
+190,Los Angeles,DHL,36.87,5,1,On Time
+191,Chicago,USPS,8.03,5,9,Delayed
+192,Chicago,USPS,31.2,3,3,On Time
+193,New York,FedEx,20.56,6,4,On Time
+194,Chicago,DHL,32.94,5,1,On Time
+195,Chicago,UPS,7.06,3,9,Delayed
+196,Los Angeles,FedEx,44.22,2,8,Delayed
+197,Los Angeles,UPS,48.81,6,2,On Time
+198,Houston,USPS,48.6,4,8,Delayed
+199,New York,USPS,38.73,5,7,Delayed
+200,Chicago,FedEx,10.85,3,6,Delayed
+201,Chicago,FedEx,39.12,2,1,On Time
+202,Houston,UPS,6.11,4,7,Delayed
+203,Chicago,DHL,6.0,3,7,Delayed
+204,New York,UPS,19.56,3,9,Delayed
+205,Houston,FedEx,26.99,4,1,On Time
+206,New York,UPS,39.67,2,2,On Time
+207,Houston,FedEx,35.75,2,9,Delayed
+208,Houston,UPS,25.07,6,9,Delayed
+209,Los Angeles,FedEx,17.31,5,6,Delayed
+210,New York,FedEx,49.87,4,6,Delayed
+211,Chicago,FedEx,24.18,4,4,On Time
+212,Chicago,DHL,25.31,4,4,On Time
+213,New York,UPS,12.36,2,5,Delayed
+214,Chicago,UPS,40.77,5,3,On Time
+215,Chicago,UPS,36.22,6,1,On Time
+216,New York,FedEx,14.93,3,1,On Time
+217,Houston,UPS,8.71,3,7,Delayed
+218,New York,UPS,35.62,4,1,On Time
+219,Houston,FedEx,34.45,5,1,On Time
+220,Chicago,USPS,17.3,2,3,Delayed
+221,Chicago,FedEx,47.79,5,4,On Time
+222,Chicago,UPS,11.8,5,4,On Time
+223,Los Angeles,FedEx,24.46,2,2,On Time
+224,Houston,USPS,47.46,4,1,On Time
+225,Los Angeles,FedEx,23.89,5,3,On Time
+226,Los Angeles,UPS,33.73,3,4,Delayed
+227,New York,USPS,22.89,2,3,Delayed
+228,Los Angeles,DHL,17.34,6,8,Delayed
+229,New York,UPS,49.28,4,1,On Time
+230,New York,USPS,23.42,2,2,On Time
+231,Los Angeles,USPS,45.23,6,7,Delayed
+232,Houston,DHL,15.35,6,4,On Time
+233,Houston,FedEx,14.59,5,8,Delayed
+234,Houston,FedEx,6.4,5,3,On Time
+235,Houston,UPS,34.33,5,6,Delayed
+236,Houston,DHL,21.58,2,9,Delayed
+237,Los Angeles,FedEx,43.9,2,1,On Time
+238,Los Angeles,DHL,26.29,4,1,On Time
+239,Chicago,FedEx,48.57,5,8,Delayed
+240,Houston,USPS,13.35,6,3,On Time
+241,Los Angeles,FedEx,44.09,3,5,Delayed
+242,Chicago,DHL,39.95,4,1,On Time
+243,Houston,USPS,39.69,2,5,Delayed
+244,New York,USPS,43.02,4,6,Delayed
+245,Chicago,USPS,39.25,4,8,Delayed
+246,Los Angeles,DHL,33.18,4,3,On Time
+247,New York,UPS,10.91,4,3,On Time
+248,New York,UPS,6.46,3,9,Delayed
+249,New York,UPS,46.44,5,4,On Time
+250,Chicago,DHL,32.75,6,4,On Time
+251,Los Angeles,USPS,40.84,4,7,Delayed
+252,New York,UPS,26.67,4,2,On Time
+253,Houston,DHL,10.28,4,8,Delayed
+254,New York,UPS,10.63,5,6,Delayed
+255,New York,FedEx,35.85,2,3,Delayed
+256,Chicago,UPS,24.36,2,9,Delayed
+257,Chicago,UPS,14.02,3,5,Delayed
+258,Los Angeles,USPS,27.12,2,8,Delayed
+259,Houston,DHL,7.89,4,7,Delayed
+260,Chicago,USPS,31.19,4,8,Delayed
+261,New York,USPS,17.1,4,7,Delayed
+262,Los Angeles,USPS,40.89,3,3,On Time
+263,New York,USPS,18.97,4,2,On Time
+264,New York,USPS,25.48,2,7,Delayed
+265,Chicago,UPS,5.52,5,3,On Time
+266,Los Angeles,USPS,8.26,5,3,On Time
+267,Houston,USPS,22.66,6,2,On Time
+268,Houston,DHL,26.6,2,4,Delayed
+269,Chicago,FedEx,32.0,4,8,Delayed
+270,Chicago,UPS,18.12,5,1,On Time
+271,Los Angeles,UPS,36.27,2,1,On Time
+272,Houston,UPS,43.71,5,5,On Time
+273,Houston,USPS,40.09,4,5,Delayed
+274,Houston,USPS,6.78,5,1,On Time
+275,New York,USPS,26.62,6,6,On Time
+276,Houston,DHL,9.72,6,1,On Time
+277,New York,FedEx,15.89,5,5,On Time
+278,Los Angeles,USPS,49.4,2,9,Delayed
+279,New York,FedEx,11.41,2,5,Delayed
+280,Los Angeles,DHL,27.45,2,6,Delayed
+281,Houston,UPS,32.82,5,8,Delayed
+282,Houston,USPS,36.61,2,1,On Time
+283,Los Angeles,FedEx,30.18,4,2,On Time
+284,Chicago,FedEx,5.44,6,9,Delayed
+285,Los Angeles,USPS,19.69,4,3,On Time
+286,Chicago,UPS,28.3,2,6,Delayed
+287,New York,UPS,8.95,4,5,Delayed
+288,New York,UPS,20.78,2,2,On Time
+289,New York,DHL,6.49,5,7,Delayed
+290,Houston,FedEx,8.54,4,4,On Time
+291,New York,FedEx,22.86,5,1,On Time
+292,Chicago,FedEx,10.97,5,4,On Time
+293,New York,DHL,30.54,3,6,Delayed
+294,Los Angeles,FedEx,36.03,2,7,Delayed
+295,Los Angeles,DHL,41.03,6,7,Delayed
+296,Houston,UPS,14.01,2,7,Delayed
+297,Los Angeles,USPS,12.54,6,3,On Time
+298,Chicago,FedEx,9.71,2,6,Delayed
+299,New York,FedEx,33.64,5,8,Delayed
+300,Houston,UPS,36.79,4,4,On Time
+301,New York,USPS,6.42,4,8,Delayed
+302,New York,DHL,47.13,3,2,On Time
+303,Chicago,USPS,7.34,6,9,Delayed
+304,Los Angeles,UPS,29.36,6,9,Delayed
+305,Los Angeles,UPS,36.91,6,8,Delayed
+306,New York,USPS,44.19,5,1,On Time
+307,Houston,DHL,37.13,6,2,On Time
+308,Los Angeles,DHL,41.08,4,6,Delayed
+309,Houston,FedEx,20.28,5,5,On Time
+310,Los Angeles,DHL,41.67,2,9,Delayed
+311,Houston,USPS,8.61,6,5,On Time
+312,Chicago,UPS,45.27,6,2,On Time
+313,Houston,FedEx,29.64,2,4,Delayed
+314,Chicago,FedEx,41.78,6,9,Delayed
+315,Chicago,UPS,25.35,2,1,On Time
+316,Houston,DHL,33.96,5,1,On Time
+317,Chicago,UPS,28.69,4,7,Delayed
+318,New York,DHL,37.92,2,3,Delayed
+319,Chicago,UPS,8.67,3,2,On Time
+320,Los Angeles,USPS,7.72,2,9,Delayed
+321,Houston,DHL,16.12,6,3,On Time
+322,New York,USPS,12.18,5,2,On Time
+323,Houston,FedEx,44.23,5,8,Delayed
+324,Los Angeles,UPS,14.86,2,6,Delayed
+325,Los Angeles,FedEx,48.91,4,6,Delayed
+326,Los Angeles,FedEx,20.16,3,7,Delayed
+327,Chicago,FedEx,13.2,5,7,Delayed
+328,Chicago,FedEx,40.54,6,6,On Time
+329,Houston,UPS,34.64,6,4,On Time
+330,Houston,FedEx,27.42,4,9,Delayed
+331,New York,UPS,29.99,5,6,Delayed
+332,New York,UPS,37.36,2,4,Delayed
+333,Houston,USPS,15.28,6,3,On Time
+334,Chicago,DHL,49.84,4,4,On Time
+335,Los Angeles,DHL,48.87,5,3,On Time
+336,Houston,UPS,34.26,5,2,On Time
+337,New York,USPS,13.98,5,5,On Time
+338,Chicago,UPS,35.61,5,2,On Time
+339,Houston,UPS,8.25,5,6,Delayed
+340,Houston,UPS,6.38,6,3,On Time
+341,Chicago,USPS,16.6,4,6,Delayed
+342,Houston,DHL,25.82,5,9,Delayed
+343,Chicago,USPS,44.07,3,1,On Time
+344,Los Angeles,FedEx,37.72,3,6,Delayed
+345,Chicago,USPS,38.42,4,9,Delayed
+346,Chicago,USPS,24.15,2,4,Delayed
+347,Chicago,USPS,20.57,2,2,On Time
+348,Houston,USPS,21.7,2,4,Delayed
+349,Houston,DHL,49.44,3,1,On Time
+350,Chicago,FedEx,6.8,2,3,Delayed
+351,Houston,DHL,44.02,6,9,Delayed
+352,New York,DHL,31.04,5,5,On Time
+353,New York,USPS,24.74,3,6,Delayed
+354,Houston,UPS,37.64,4,3,On Time
+355,Houston,UPS,26.9,4,5,Delayed
+356,Chicago,DHL,44.3,5,8,Delayed
+357,Los Angeles,DHL,45.53,3,6,Delayed
+358,Houston,USPS,23.98,2,4,Delayed
+359,New York,DHL,17.46,2,2,On Time
+360,Chicago,USPS,31.66,6,9,Delayed
+361,Houston,UPS,46.06,6,1,On Time
+362,New York,UPS,14.48,2,1,On Time
+363,New York,FedEx,33.03,4,4,On Time
+364,Los Angeles,UPS,33.42,4,7,Delayed
+365,Chicago,DHL,37.99,6,1,On Time
+366,Chicago,UPS,10.92,5,9,Delayed
+367,Los Angeles,USPS,37.21,2,4,Delayed
+368,Los Angeles,UPS,45.91,6,3,On Time
+369,Chicago,FedEx,13.09,6,1,On Time
+370,Chicago,UPS,15.69,2,4,Delayed
+371,Houston,USPS,48.71,2,9,Delayed
+372,Houston,USPS,13.14,4,6,Delayed
+373,Los Angeles,DHL,43.45,5,6,Delayed
+374,Houston,UPS,27.15,5,1,On Time
+375,New York,USPS,16.13,2,2,On Time
+376,Houston,FedEx,44.18,3,6,Delayed
+377,Houston,DHL,25.04,6,2,On Time
+378,New York,FedEx,28.17,6,3,On Time
+379,Los Angeles,UPS,21.17,2,4,Delayed
+380,New York,UPS,31.68,3,5,Delayed
+381,Houston,UPS,12.36,4,9,Delayed
+382,Los Angeles,DHL,22.6,2,4,Delayed
+383,Houston,USPS,48.62,2,9,Delayed
+384,New York,DHL,16.62,6,3,On Time
+385,New York,FedEx,34.55,2,8,Delayed
+386,Houston,DHL,19.63,2,1,On Time
+387,Chicago,FedEx,39.81,2,9,Delayed
+388,Chicago,DHL,10.89,6,9,Delayed
+389,New York,USPS,48.64,4,2,On Time
+390,New York,FedEx,25.42,4,4,On Time
+391,Chicago,UPS,15.62,2,8,Delayed
+392,Chicago,UPS,8.31,6,7,Delayed
+393,Houston,DHL,12.64,4,1,On Time
+394,Houston,UPS,28.39,4,5,Delayed
+395,Chicago,FedEx,20.17,4,7,Delayed
+396,Houston,UPS,42.3,6,4,On Time
+397,Houston,USPS,24.39,6,1,On Time
+398,Los Angeles,USPS,16.19,2,9,Delayed
+399,Houston,DHL,32.77,5,5,On Time
+400,New York,FedEx,36.8,4,2,On Time
+401,Houston,USPS,12.52,5,8,Delayed
+402,Houston,USPS,12.54,6,2,On Time
+403,Chicago,FedEx,6.65,6,3,On Time
+404,New York,UPS,38.14,6,1,On Time
+405,Houston,UPS,34.87,5,2,On Time
+406,Houston,DHL,26.36,6,7,Delayed
+407,Los Angeles,UPS,42.99,2,2,On Time
+408,Houston,FedEx,41.26,6,6,On Time
+409,Houston,USPS,31.34,3,3,On Time
+410,Los Angeles,UPS,44.07,5,4,On Time
+411,Chicago,DHL,14.26,3,8,Delayed
+412,Houston,UPS,10.04,6,3,On Time
+413,Los Angeles,FedEx,17.14,2,6,Delayed
+414,New York,DHL,7.57,4,1,On Time
+415,Chicago,UPS,28.9,6,7,Delayed
+416,New York,DHL,47.15,2,8,Delayed
+417,New York,FedEx,6.77,5,8,Delayed
+418,Los Angeles,USPS,10.49,3,3,On Time
+419,Houston,FedEx,25.35,3,1,On Time
+420,Los Angeles,FedEx,47.02,3,9,Delayed
+421,Los Angeles,FedEx,19.23,5,6,Delayed
+422,Los Angeles,FedEx,27.83,2,9,Delayed
+423,Los Angeles,USPS,6.87,5,7,Delayed
+424,Chicago,USPS,11.68,3,1,On Time
+425,Houston,DHL,49.4,6,1,On Time
+426,New York,UPS,48.43,4,6,Delayed
+427,New York,USPS,5.22,5,5,On Time
+428,Houston,USPS,47.83,5,9,Delayed
+429,New York,UPS,33.76,2,2,On Time
+430,Houston,USPS,44.06,2,8,Delayed
+431,New York,FedEx,25.46,5,5,On Time
+432,Los Angeles,FedEx,28.2,3,2,On Time
+433,New York,UPS,27.0,4,6,Delayed
+434,Houston,DHL,35.01,2,8,Delayed
+435,Houston,DHL,11.28,3,4,Delayed
+436,Houston,UPS,6.35,6,2,On Time
+437,Houston,UPS,18.86,2,5,Delayed
+438,Houston,FedEx,36.71,3,2,On Time
+439,Chicago,DHL,14.08,3,2,On Time
+440,Chicago,USPS,35.3,4,6,Delayed
+441,New York,FedEx,48.65,4,9,Delayed
+442,Houston,UPS,9.23,6,4,On Time
+443,New York,DHL,35.27,3,6,Delayed
+444,Houston,USPS,24.97,3,7,Delayed
+445,Houston,USPS,44.07,4,6,Delayed
+446,Chicago,FedEx,12.97,2,8,Delayed
+447,Chicago,DHL,36.17,2,4,Delayed
+448,Los Angeles,DHL,42.72,5,1,On Time
+449,Chicago,UPS,47.51,4,7,Delayed
+450,Los Angeles,DHL,35.75,5,3,On Time
+451,Los Angeles,DHL,27.37,4,6,Delayed
+452,Los Angeles,FedEx,32.8,6,2,On Time
+453,Los Angeles,DHL,44.1,3,9,Delayed
+454,Los Angeles,USPS,30.68,6,1,On Time
+455,New York,FedEx,6.37,4,6,Delayed
+456,Chicago,FedEx,46.89,3,6,Delayed
+457,Los Angeles,UPS,36.03,2,5,Delayed
+458,Houston,DHL,35.44,2,5,Delayed
+459,Chicago,UPS,14.71,5,1,On Time
+460,Chicago,USPS,34.65,4,5,Delayed
+461,Los Angeles,FedEx,22.72,4,2,On Time
+462,New York,FedEx,34.31,2,7,Delayed
+463,Los Angeles,FedEx,9.8,6,3,On Time
+464,New York,USPS,34.6,3,4,Delayed
+465,Houston,USPS,49.97,6,3,On Time
+466,Chicago,UPS,7.17,6,3,On Time
+467,Houston,UPS,48.97,2,4,Delayed
+468,New York,UPS,23.31,2,5,Delayed
+469,New York,DHL,44.18,2,1,On Time
+470,Houston,FedEx,40.21,5,4,On Time
+471,New York,FedEx,30.52,6,8,Delayed
+472,Houston,UPS,38.23,4,7,Delayed
+473,Chicago,FedEx,44.53,3,9,Delayed
+474,Houston,UPS,23.19,5,5,On Time
+475,Chicago,DHL,19.72,4,4,On Time
+476,Houston,DHL,35.04,6,8,Delayed
+477,New York,USPS,41.35,2,9,Delayed
+478,Houston,DHL,39.3,6,7,Delayed
+479,New York,UPS,40.9,3,7,Delayed
+480,Houston,DHL,24.6,5,5,On Time
+481,Houston,USPS,41.8,5,4,On Time
+482,Los Angeles,FedEx,10.41,3,1,On Time
+483,New York,UPS,29.5,4,7,Delayed
+484,Los Angeles,FedEx,5.26,4,1,On Time
+485,New York,USPS,19.61,5,1,On Time
+486,Los Angeles,USPS,21.49,5,5,On Time
+487,Chicago,USPS,22.83,2,9,Delayed
+488,Houston,FedEx,36.3,4,6,Delayed
+489,New York,FedEx,22.49,3,3,On Time
+490,New York,FedEx,25.19,4,3,On Time
+491,Houston,FedEx,15.69,2,7,Delayed
+492,New York,USPS,21.8,5,6,Delayed
+493,New York,USPS,15.23,5,9,Delayed
+494,Los Angeles,UPS,8.29,2,6,Delayed
+495,New York,UPS,32.16,3,5,Delayed
+496,Chicago,FedEx,35.07,5,7,Delayed
+497,Chicago,DHL,32.88,6,1,On Time
+498,Houston,DHL,25.86,5,7,Delayed
+499,New York,USPS,22.09,6,3,On Time
+500,Houston,USPS,43.85,2,9,Delayed
+501,Chicago,USPS,28.36,2,6,Delayed
+502,New York,UPS,26.56,5,9,Delayed
+503,New York,UPS,6.15,4,5,Delayed
+504,Houston,USPS,20.36,6,7,Delayed
+505,Chicago,USPS,22.11,3,4,Delayed
+506,New York,USPS,22.95,5,7,Delayed
+507,Houston,DHL,31.11,3,1,On Time
+508,Chicago,UPS,29.01,5,7,Delayed
+509,Houston,DHL,32.36,4,8,Delayed
+510,Los Angeles,DHL,39.42,4,5,Delayed
+511,New York,USPS,41.58,4,2,On Time
+512,Los Angeles,USPS,37.32,4,5,Delayed
+513,Chicago,FedEx,48.0,2,6,Delayed
+514,Los Angeles,FedEx,5.82,2,2,On Time
+515,Los Angeles,DHL,13.81,6,6,On Time
+516,Chicago,UPS,5.34,3,6,Delayed
+517,Houston,USPS,34.14,5,1,On Time
+518,Los Angeles,USPS,45.41,5,1,On Time
+519,Houston,DHL,15.96,2,3,Delayed
+520,Los Angeles,FedEx,46.72,5,3,On Time
+521,Houston,UPS,7.71,2,4,Delayed
+522,Chicago,FedEx,47.05,6,2,On Time
+523,Los Angeles,FedEx,20.82,3,9,Delayed
+524,Chicago,FedEx,9.56,6,7,Delayed
+525,Los Angeles,FedEx,26.86,4,7,Delayed
+526,Chicago,USPS,16.55,4,6,Delayed
+527,Chicago,USPS,17.82,4,3,On Time
+528,Los Angeles,FedEx,18.83,6,6,On Time
+529,Los Angeles,UPS,41.14,5,8,Delayed
+530,Los Angeles,DHL,29.26,3,8,Delayed
+531,New York,UPS,19.01,4,9,Delayed
+532,Houston,UPS,32.47,4,1,On Time
+533,New York,UPS,37.23,4,1,On Time
+534,New York,FedEx,17.27,3,3,On Time
+535,Chicago,USPS,23.61,4,3,On Time
+536,Los Angeles,UPS,10.48,3,8,Delayed
+537,Houston,FedEx,13.15,4,1,On Time
+538,Chicago,UPS,35.65,6,2,On Time
+539,New York,UPS,13.16,6,2,On Time
+540,Los Angeles,FedEx,28.63,3,3,On Time
+541,Chicago,USPS,36.91,6,6,On Time
+542,Los Angeles,USPS,9.81,3,1,On Time
+543,Chicago,DHL,30.53,6,2,On Time
+544,Los Angeles,FedEx,16.55,6,1,On Time
+545,New York,DHL,48.33,3,5,Delayed
+546,Houston,DHL,26.76,5,7,Delayed
+547,New York,DHL,41.27,6,8,Delayed
+548,Houston,USPS,29.76,4,1,On Time
+549,Los Angeles,FedEx,6.95,5,7,Delayed
+550,Chicago,DHL,33.49,3,5,Delayed
+551,New York,FedEx,47.81,5,1,On Time
+552,Houston,FedEx,32.07,2,3,Delayed
+553,New York,USPS,41.86,2,7,Delayed
+554,Houston,DHL,44.79,6,1,On Time
+555,New York,DHL,15.26,6,7,Delayed
+556,Houston,FedEx,14.54,4,5,Delayed
+557,Houston,UPS,32.49,5,1,On Time
+558,Los Angeles,USPS,23.5,2,1,On Time
+559,Houston,USPS,42.79,6,1,On Time
+560,Los Angeles,USPS,45.5,5,9,Delayed
+561,Houston,USPS,20.9,6,3,On Time
+562,Chicago,DHL,15.66,6,5,On Time
+563,Chicago,DHL,40.12,2,9,Delayed
+564,Chicago,UPS,17.37,2,6,Delayed
+565,Houston,USPS,42.02,6,9,Delayed
+566,Los Angeles,USPS,24.07,3,8,Delayed
+567,Los Angeles,FedEx,35.04,6,8,Delayed
+568,Houston,DHL,9.3,6,1,On Time
+569,Chicago,USPS,33.07,4,9,Delayed
+570,Chicago,UPS,25.33,4,6,Delayed
+571,Los Angeles,UPS,31.4,4,9,Delayed
+572,Chicago,DHL,12.56,3,3,On Time
+573,New York,UPS,38.16,3,3,On Time
+574,Los Angeles,UPS,43.83,6,6,On Time
+575,Chicago,DHL,14.75,4,9,Delayed
+576,Los Angeles,USPS,9.31,3,7,Delayed
+577,New York,USPS,6.06,2,3,Delayed
+578,Los Angeles,UPS,33.89,6,3,On Time
+579,Los Angeles,UPS,32.32,5,2,On Time
+580,Los Angeles,USPS,29.6,6,9,Delayed
+581,Los Angeles,DHL,15.44,5,3,On Time
+582,New York,UPS,22.59,4,5,Delayed
+583,Houston,FedEx,31.75,5,9,Delayed
+584,Los Angeles,DHL,27.35,4,8,Delayed
+585,Los Angeles,UPS,49.45,2,2,On Time
+586,Chicago,UPS,11.14,5,3,On Time
+587,Los Angeles,FedEx,36.28,6,2,On Time
+588,Chicago,FedEx,23.19,4,8,Delayed
+589,Houston,USPS,24.27,6,6,On Time
+590,New York,DHL,37.29,3,6,Delayed
+591,New York,DHL,36.16,4,9,Delayed
+592,Houston,USPS,49.61,5,8,Delayed
+593,New York,DHL,10.78,4,4,On Time
+594,Houston,DHL,9.68,6,4,On Time
+595,Houston,DHL,37.6,2,9,Delayed
+596,Houston,DHL,31.03,4,1,On Time
+597,New York,DHL,17.34,5,2,On Time
+598,Chicago,FedEx,8.57,3,2,On Time
+599,Houston,DHL,8.85,2,6,Delayed
+600,Los Angeles,FedEx,45.24,3,4,Delayed
+601,New York,DHL,13.63,4,3,On Time
+602,Houston,USPS,19.55,6,3,On Time
+603,Houston,UPS,15.2,6,3,On Time
+604,Los Angeles,FedEx,20.97,5,6,Delayed
+605,Chicago,DHL,8.12,6,8,Delayed
+606,Chicago,USPS,28.36,2,7,Delayed
+607,Chicago,UPS,8.04,6,4,On Time
+608,Houston,FedEx,41.02,5,4,On Time
+609,Houston,UPS,15.52,4,2,On Time
+610,Houston,USPS,29.3,4,1,On Time
+611,New York,FedEx,44.6,6,9,Delayed
+612,Los Angeles,UPS,34.29,3,2,On Time
+613,Houston,DHL,28.98,4,8,Delayed
+614,Los Angeles,FedEx,19.6,6,9,Delayed
+615,Los Angeles,UPS,19.99,5,4,On Time
+616,Chicago,USPS,35.13,6,8,Delayed
+617,New York,USPS,49.74,4,9,Delayed
+618,Houston,FedEx,34.78,5,5,On Time
+619,Chicago,UPS,30.1,6,7,Delayed
+620,Chicago,FedEx,37.88,2,4,Delayed
+621,Houston,FedEx,25.93,5,1,On Time
+622,Los Angeles,UPS,7.71,2,3,Delayed
+623,Chicago,UPS,30.3,3,5,Delayed
+624,Los Angeles,DHL,48.09,5,3,On Time
+625,New York,UPS,12.89,2,7,Delayed
+626,Los Angeles,USPS,36.05,4,9,Delayed
+627,New York,FedEx,14.04,4,6,Delayed
+628,Los Angeles,FedEx,29.11,3,1,On Time
+629,Chicago,USPS,9.35,5,7,Delayed
+630,Chicago,UPS,25.27,5,3,On Time
+631,New York,USPS,39.03,5,5,On Time
+632,Houston,USPS,20.64,3,4,Delayed
+633,New York,DHL,34.92,5,5,On Time
+634,New York,USPS,40.8,4,5,Delayed
+635,Los Angeles,FedEx,46.72,2,6,Delayed
+636,Los Angeles,USPS,15.56,4,6,Delayed
+637,New York,FedEx,22.97,4,8,Delayed
+638,Chicago,FedEx,11.86,2,8,Delayed
+639,Los Angeles,FedEx,49.66,4,9,Delayed
+640,Houston,UPS,46.72,3,8,Delayed
+641,Los Angeles,DHL,29.3,2,2,On Time
+642,Los Angeles,FedEx,42.89,4,1,On Time
+643,Houston,FedEx,28.44,6,2,On Time
+644,New York,UPS,33.06,4,2,On Time
+645,Houston,FedEx,9.01,3,3,On Time
+646,New York,USPS,38.99,5,7,Delayed
+647,New York,USPS,10.75,4,2,On Time
+648,New York,DHL,42.17,5,1,On Time
+649,Houston,FedEx,40.19,6,6,On Time
+650,New York,UPS,36.89,4,9,Delayed
+651,Chicago,USPS,6.63,2,3,Delayed
+652,Houston,UPS,18.64,5,6,Delayed
+653,Chicago,UPS,16.84,6,3,On Time
+654,New York,USPS,21.21,2,1,On Time
+655,Los Angeles,UPS,8.94,2,5,Delayed
+656,New York,USPS,47.16,2,4,Delayed
+657,Chicago,UPS,29.92,2,7,Delayed
+658,Chicago,USPS,18.75,4,6,Delayed
+659,Houston,FedEx,22.86,4,7,Delayed
+660,Los Angeles,DHL,25.12,4,5,Delayed
+661,Houston,USPS,32.03,6,4,On Time
+662,Chicago,USPS,28.21,6,7,Delayed
+663,New York,DHL,46.37,6,7,Delayed
+664,Los Angeles,USPS,27.36,3,6,Delayed
+665,New York,USPS,49.65,6,8,Delayed
+666,New York,UPS,43.31,4,4,On Time
+667,Los Angeles,DHL,14.38,4,5,Delayed
+668,Houston,FedEx,46.88,3,4,Delayed
+669,New York,USPS,10.24,3,1,On Time
+670,Chicago,DHL,41.79,6,8,Delayed
+671,New York,UPS,22.13,5,1,On Time
+672,Los Angeles,FedEx,44.51,3,5,Delayed
+673,Los Angeles,DHL,44.06,2,6,Delayed
+674,Los Angeles,FedEx,41.27,4,6,Delayed
+675,Houston,FedEx,40.55,2,5,Delayed
+676,New York,FedEx,18.71,4,3,On Time
+677,Houston,USPS,8.64,4,5,Delayed
+678,Houston,USPS,23.13,3,8,Delayed
+679,Los Angeles,UPS,12.81,3,2,On Time
+680,Los Angeles,UPS,36.27,2,6,Delayed
+681,Houston,DHL,20.57,4,9,Delayed
+682,New York,UPS,48.9,2,8,Delayed
+683,Chicago,FedEx,33.84,5,8,Delayed
+684,Houston,FedEx,42.01,2,8,Delayed
+685,New York,USPS,10.96,6,7,Delayed
+686,Los Angeles,FedEx,43.79,2,8,Delayed
+687,Los Angeles,DHL,46.52,6,6,On Time
+688,New York,FedEx,26.92,6,2,On Time
+689,Chicago,FedEx,32.28,6,2,On Time
+690,Los Angeles,DHL,39.42,5,8,Delayed
+691,Los Angeles,UPS,12.87,2,1,On Time
+692,Los Angeles,UPS,27.62,2,6,Delayed
+693,New York,DHL,22.94,5,6,Delayed
+694,Houston,USPS,11.59,4,4,On Time
+695,Los Angeles,FedEx,21.54,3,3,On Time
+696,Houston,DHL,8.07,2,3,Delayed
+697,Chicago,FedEx,6.16,3,1,On Time
+698,Los Angeles,USPS,11.08,5,3,On Time
+699,Los Angeles,FedEx,48.34,4,4,On Time
+700,Chicago,DHL,29.73,4,5,Delayed
+701,Los Angeles,FedEx,48.46,4,3,On Time
+702,Houston,UPS,24.46,5,6,Delayed
+703,New York,USPS,19.03,6,5,On Time
+704,Houston,USPS,27.78,6,3,On Time
+705,New York,USPS,24.78,3,6,Delayed
+706,New York,DHL,9.75,6,6,On Time
+707,Houston,USPS,33.84,6,8,Delayed
+708,Houston,UPS,14.72,4,2,On Time
+709,Houston,DHL,32.88,4,1,On Time
+710,Houston,UPS,34.26,3,4,Delayed
+711,Chicago,FedEx,11.84,2,7,Delayed
+712,Los Angeles,FedEx,7.76,3,3,On Time
+713,New York,FedEx,40.13,3,3,On Time
+714,Houston,FedEx,25.69,5,5,On Time
+715,Houston,UPS,7.62,5,5,On Time
+716,Houston,DHL,49.77,3,3,On Time
+717,Chicago,DHL,7.6,3,9,Delayed
+718,Houston,USPS,36.28,3,4,Delayed
+719,Houston,UPS,49.27,6,3,On Time
+720,Houston,FedEx,15.76,5,2,On Time
+721,Los Angeles,UPS,11.4,3,9,Delayed
+722,Chicago,USPS,10.46,4,4,On Time
+723,Houston,USPS,18.65,4,3,On Time
+724,New York,UPS,9.55,6,7,Delayed
+725,New York,UPS,36.15,6,8,Delayed
+726,New York,UPS,7.8,2,2,On Time
+727,Chicago,DHL,27.92,2,7,Delayed
+728,Chicago,FedEx,49.85,2,5,Delayed
+729,New York,UPS,41.63,6,5,On Time
+730,Houston,UPS,32.68,6,3,On Time
+731,Chicago,UPS,18.78,6,5,On Time
+732,New York,USPS,33.08,4,2,On Time
+733,New York,USPS,28.72,6,4,On Time
+734,Houston,DHL,24.17,4,6,Delayed
+735,Los Angeles,FedEx,10.88,2,1,On Time
+736,Chicago,DHL,44.9,2,4,Delayed
+737,Houston,FedEx,25.24,2,6,Delayed
+738,New York,USPS,13.76,3,9,Delayed
+739,New York,USPS,21.55,3,2,On Time
+740,Houston,USPS,23.64,5,7,Delayed
+741,Chicago,DHL,42.24,5,6,Delayed
+742,Los Angeles,UPS,38.01,5,2,On Time
+743,Los Angeles,UPS,39.62,3,8,Delayed
+744,New York,USPS,5.5,3,7,Delayed
+745,Chicago,UPS,23.73,5,5,On Time
+746,Los Angeles,UPS,26.66,5,5,On Time
+747,Chicago,DHL,5.86,6,7,Delayed
+748,Chicago,FedEx,16.69,5,9,Delayed
+749,New York,USPS,39.21,6,9,Delayed
+750,Los Angeles,USPS,11.17,4,9,Delayed
+751,Houston,DHL,29.09,3,6,Delayed
+752,New York,DHL,14.68,5,6,Delayed
+753,Los Angeles,UPS,5.55,3,3,On Time
+754,Los Angeles,USPS,15.85,3,1,On Time
+755,Los Angeles,FedEx,48.91,3,7,Delayed
+756,Los Angeles,DHL,41.07,4,4,On Time
+757,Los Angeles,FedEx,48.18,2,1,On Time
+758,Chicago,FedEx,26.95,5,8,Delayed
+759,New York,USPS,9.94,2,6,Delayed
+760,Chicago,USPS,29.66,2,6,Delayed
+761,Houston,DHL,25.45,2,2,On Time
+762,Los Angeles,USPS,43.0,3,1,On Time
+763,New York,USPS,9.41,6,2,On Time
+764,Los Angeles,USPS,26.97,3,4,Delayed
+765,New York,FedEx,11.75,3,2,On Time
+766,Chicago,DHL,19.61,2,1,On Time
+767,New York,UPS,38.18,3,7,Delayed
+768,Houston,FedEx,26.42,2,8,Delayed
+769,Houston,USPS,21.91,6,6,On Time
+770,New York,FedEx,22.75,5,4,On Time
+771,New York,USPS,25.68,2,6,Delayed
+772,New York,USPS,40.33,6,3,On Time
+773,New York,FedEx,45.14,5,8,Delayed
+774,Houston,DHL,47.99,4,2,On Time
+775,Los Angeles,USPS,40.41,2,5,Delayed
+776,New York,DHL,19.19,2,1,On Time
+777,New York,UPS,35.97,4,6,Delayed
+778,Houston,USPS,24.69,4,2,On Time
+779,Houston,DHL,16.46,2,4,Delayed
+780,Chicago,DHL,42.84,4,6,Delayed
+781,New York,UPS,6.73,3,8,Delayed
+782,Chicago,DHL,45.58,5,8,Delayed
+783,Houston,DHL,25.77,5,6,Delayed
+784,Houston,UPS,33.67,5,4,On Time
+785,Los Angeles,USPS,34.67,3,8,Delayed
+786,New York,DHL,45.28,4,8,Delayed
+787,Chicago,DHL,33.65,6,1,On Time
+788,Houston,DHL,32.63,4,4,On Time
+789,Houston,FedEx,8.0,2,4,Delayed
+790,Chicago,UPS,28.33,5,7,Delayed
+791,Los Angeles,FedEx,11.76,4,7,Delayed
+792,Houston,UPS,38.18,6,8,Delayed
+793,New York,USPS,28.05,2,5,Delayed
+794,Houston,USPS,35.61,3,7,Delayed
+795,New York,DHL,6.88,3,8,Delayed
+796,Chicago,UPS,8.82,6,9,Delayed
+797,New York,USPS,37.23,2,3,Delayed
+798,Chicago,UPS,8.24,5,3,On Time
+799,New York,USPS,8.21,4,4,On Time
+800,Chicago,FedEx,5.54,2,5,Delayed
+801,New York,USPS,48.04,3,1,On Time
+802,Los Angeles,FedEx,38.19,6,7,Delayed
+803,New York,USPS,20.9,6,9,Delayed
+804,New York,DHL,18.34,4,8,Delayed
+805,Los Angeles,FedEx,20.74,6,5,On Time
+806,Houston,USPS,39.86,6,4,On Time
+807,Houston,DHL,34.76,2,7,Delayed
+808,New York,FedEx,13.33,5,5,On Time
+809,Los Angeles,DHL,12.83,4,7,Delayed
+810,New York,UPS,9.43,2,1,On Time
+811,Chicago,UPS,34.71,5,1,On Time
+812,Chicago,FedEx,39.4,2,3,Delayed
+813,New York,USPS,16.93,2,2,On Time
+814,Houston,FedEx,5.94,6,2,On Time
+815,Houston,DHL,8.7,5,7,Delayed
+816,New York,USPS,48.55,4,2,On Time
+817,New York,UPS,18.3,4,4,On Time
+818,Chicago,USPS,39.62,5,2,On Time
+819,Houston,UPS,33.11,6,6,On Time
+820,New York,USPS,22.19,3,8,Delayed
+821,Chicago,USPS,14.26,2,4,Delayed
+822,Houston,USPS,10.46,6,5,On Time
+823,Los Angeles,DHL,32.68,5,4,On Time
+824,Chicago,DHL,39.86,2,3,Delayed
+825,Houston,FedEx,33.98,4,5,Delayed
+826,Houston,FedEx,28.86,3,9,Delayed
+827,Chicago,UPS,6.89,4,8,Delayed
+828,Los Angeles,DHL,48.58,5,8,Delayed
+829,Chicago,UPS,40.94,2,8,Delayed
+830,Houston,FedEx,18.18,5,8,Delayed
+831,New York,UPS,49.1,2,7,Delayed
+832,New York,FedEx,32.08,6,8,Delayed
+833,Chicago,DHL,31.21,3,8,Delayed
+834,Houston,USPS,38.66,6,8,Delayed
+835,New York,DHL,41.53,6,7,Delayed
+836,Houston,UPS,34.54,5,1,On Time
+837,Chicago,UPS,10.76,3,4,Delayed
+838,New York,DHL,20.22,2,4,Delayed
+839,Houston,DHL,46.76,2,5,Delayed
+840,New York,FedEx,15.11,4,6,Delayed
+841,Chicago,UPS,21.75,2,4,Delayed
+842,Houston,UPS,24.44,5,2,On Time
+843,New York,DHL,24.77,6,6,On Time
+844,Chicago,USPS,32.58,6,8,Delayed
+845,New York,UPS,47.44,6,8,Delayed
+846,New York,USPS,15.83,3,7,Delayed
+847,Los Angeles,DHL,10.47,2,6,Delayed
+848,Los Angeles,DHL,13.89,5,2,On Time
+849,Chicago,FedEx,44.91,3,7,Delayed
+850,Los Angeles,UPS,34.06,4,5,Delayed
+851,Chicago,USPS,17.87,5,6,Delayed
+852,Los Angeles,FedEx,41.72,5,8,Delayed
+853,New York,UPS,43.76,5,8,Delayed
+854,Chicago,FedEx,43.09,6,3,On Time
+855,Chicago,DHL,46.35,5,7,Delayed
+856,New York,UPS,16.35,2,1,On Time
+857,Chicago,FedEx,38.98,5,1,On Time
+858,Chicago,FedEx,25.72,6,7,Delayed
+859,Los Angeles,USPS,42.89,5,9,Delayed
+860,Chicago,FedEx,37.78,4,7,Delayed
+861,Houston,UPS,39.94,4,5,Delayed
+862,New York,UPS,34.53,6,8,Delayed
+863,Los Angeles,USPS,12.98,2,2,On Time
+864,Los Angeles,UPS,29.53,2,9,Delayed
+865,Houston,DHL,49.31,3,6,Delayed
+866,New York,UPS,47.18,6,9,Delayed
+867,New York,UPS,6.94,5,2,On Time
+868,Los Angeles,FedEx,12.42,6,3,On Time
+869,Chicago,FedEx,10.93,3,8,Delayed
+870,Los Angeles,UPS,37.67,6,1,On Time
+871,New York,USPS,41.8,6,7,Delayed
+872,Houston,FedEx,14.61,3,7,Delayed
+873,Los Angeles,USPS,27.76,2,1,On Time
+874,New York,UPS,42.83,5,9,Delayed
+875,Los Angeles,UPS,37.98,3,8,Delayed
+876,Chicago,DHL,29.4,4,4,On Time
+877,Los Angeles,FedEx,31.57,2,5,Delayed
+878,Los Angeles,UPS,27.88,4,2,On Time
+879,New York,DHL,18.39,2,9,Delayed
+880,New York,FedEx,30.43,5,6,Delayed
+881,New York,UPS,36.0,5,3,On Time
+882,Los Angeles,UPS,44.3,6,7,Delayed
+883,Chicago,FedEx,33.63,4,9,Delayed
+884,Houston,FedEx,39.25,2,3,Delayed
+885,Houston,FedEx,12.2,5,2,On Time
+886,New York,UPS,25.77,3,7,Delayed
+887,New York,UPS,5.42,5,7,Delayed
+888,Los Angeles,DHL,16.1,3,4,Delayed
+889,Houston,USPS,37.69,2,9,Delayed
+890,New York,FedEx,49.63,5,8,Delayed
+891,Chicago,UPS,9.46,5,1,On Time
+892,Chicago,UPS,23.07,2,1,On Time
+893,New York,FedEx,41.0,5,5,On Time
+894,New York,USPS,14.18,3,6,Delayed
+895,Houston,FedEx,29.98,5,3,On Time
+896,Houston,USPS,37.99,4,9,Delayed
+897,Los Angeles,UPS,32.72,6,6,On Time
+898,Houston,USPS,13.46,3,4,Delayed
+899,Chicago,DHL,20.99,4,7,Delayed
+900,Chicago,UPS,40.27,2,8,Delayed
+901,New York,DHL,29.94,3,9,Delayed
+902,Houston,FedEx,5.24,6,6,On Time
+903,Los Angeles,FedEx,39.24,6,6,On Time
+904,Chicago,FedEx,6.59,2,8,Delayed
+905,Chicago,USPS,38.56,2,5,Delayed
+906,Los Angeles,UPS,14.11,3,3,On Time
+907,Los Angeles,FedEx,48.11,5,3,On Time
+908,Chicago,FedEx,21.56,2,6,Delayed
+909,Chicago,UPS,19.71,5,2,On Time
+910,Los Angeles,FedEx,11.7,4,6,Delayed
+911,Chicago,DHL,18.75,6,6,On Time
+912,New York,UPS,44.45,5,8,Delayed
+913,New York,UPS,49.84,6,7,Delayed
+914,Los Angeles,UPS,21.57,5,8,Delayed
+915,Houston,DHL,25.19,4,9,Delayed
+916,Los Angeles,UPS,37.49,2,6,Delayed
+917,Los Angeles,DHL,44.88,4,3,On Time
+918,Houston,UPS,31.69,2,3,Delayed
+919,Houston,USPS,22.62,2,1,On Time
+920,Houston,FedEx,23.57,6,5,On Time
+921,New York,USPS,36.3,4,4,On Time
+922,Chicago,FedEx,5.14,5,9,Delayed
+923,New York,DHL,32.88,4,9,Delayed
+924,Chicago,USPS,21.0,6,5,On Time
+925,New York,UPS,40.74,2,4,Delayed
+926,Chicago,FedEx,9.18,6,7,Delayed
+927,New York,FedEx,31.47,3,6,Delayed
+928,Houston,USPS,26.64,3,4,Delayed
+929,Los Angeles,DHL,33.9,5,2,On Time
+930,New York,USPS,7.92,6,1,On Time
+931,Chicago,DHL,31.1,5,4,On Time
+932,Houston,DHL,30.27,5,4,On Time
+933,New York,FedEx,30.23,3,1,On Time
+934,New York,USPS,32.16,5,6,Delayed
+935,Houston,USPS,35.44,3,4,Delayed
+936,New York,DHL,41.22,2,1,On Time
+937,Los Angeles,USPS,17.14,6,1,On Time
+938,New York,UPS,42.13,5,1,On Time
+939,Los Angeles,UPS,27.42,3,8,Delayed
+940,Los Angeles,USPS,8.47,4,8,Delayed
+941,Houston,USPS,7.63,5,2,On Time
+942,New York,DHL,20.04,2,7,Delayed
+943,Houston,UPS,40.32,2,8,Delayed
+944,New York,UPS,36.85,4,8,Delayed
+945,New York,FedEx,40.49,3,7,Delayed
+946,Chicago,DHL,28.28,5,5,On Time
+947,New York,FedEx,24.81,3,1,On Time
+948,Houston,UPS,11.64,2,9,Delayed
+949,Los Angeles,DHL,19.77,3,7,Delayed
+950,New York,USPS,24.53,2,2,On Time
+951,Chicago,DHL,8.99,3,6,Delayed
+952,Houston,USPS,14.93,4,2,On Time
+953,New York,USPS,31.92,6,1,On Time
+954,Houston,DHL,38.1,4,7,Delayed
+955,Chicago,USPS,49.93,4,2,On Time
+956,Chicago,FedEx,46.99,6,2,On Time
+957,Houston,UPS,33.92,6,5,On Time
+958,New York,USPS,23.96,5,5,On Time
+959,Los Angeles,FedEx,33.63,5,7,Delayed
+960,Chicago,USPS,40.35,4,1,On Time
+961,New York,UPS,10.33,4,8,Delayed
+962,New York,FedEx,23.45,2,3,Delayed
+963,Los Angeles,UPS,42.79,2,4,Delayed
+964,Chicago,UPS,22.27,5,9,Delayed
+965,Chicago,FedEx,30.73,5,4,On Time
+966,New York,FedEx,31.45,2,5,Delayed
+967,New York,FedEx,13.3,2,7,Delayed
+968,Los Angeles,DHL,21.3,3,4,Delayed
+969,Los Angeles,FedEx,20.05,3,1,On Time
+970,Chicago,FedEx,6.18,2,9,Delayed
+971,Houston,FedEx,6.09,3,4,Delayed
+972,Chicago,FedEx,42.43,6,9,Delayed
+973,New York,USPS,17.29,5,6,Delayed
+974,Chicago,DHL,28.31,5,1,On Time
+975,Houston,UPS,18.44,2,3,Delayed
+976,Los Angeles,FedEx,47.33,4,2,On Time
+977,Houston,USPS,16.67,2,9,Delayed
+978,Houston,USPS,24.33,3,1,On Time
+979,Houston,USPS,44.27,4,9,Delayed
+980,Los Angeles,UPS,42.89,3,9,Delayed
+981,Houston,FedEx,13.37,6,8,Delayed
+982,Houston,DHL,41.12,3,8,Delayed
+983,Houston,DHL,25.62,6,1,On Time
+984,New York,USPS,26.73,6,8,Delayed
+985,Houston,UPS,11.01,3,3,On Time
+986,Los Angeles,UPS,8.63,3,7,Delayed
+987,Houston,UPS,37.76,6,1,On Time
+988,Houston,DHL,27.34,4,1,On Time
+989,Los Angeles,USPS,24.66,6,5,On Time
+990,Houston,FedEx,37.83,5,5,On Time
+991,Los Angeles,DHL,39.45,6,8,Delayed
+992,Houston,USPS,12.15,4,7,Delayed
+993,Los Angeles,USPS,32.46,5,8,Delayed
+994,Houston,FedEx,11.09,2,6,Delayed
+995,Houston,FedEx,38.81,2,6,Delayed
+996,New York,FedEx,34.56,4,2,On Time
+997,New York,UPS,48.05,6,6,On Time
+998,Houston,FedEx,8.1,3,5,Delayed
+999,Houston,USPS,7.57,4,3,On Time
+1000,Chicago,FedEx,17.7,5,6,Delayed
